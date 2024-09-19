@@ -37,9 +37,13 @@ By PatnosD: Bendy And The Ink Machine: https://www.mediafire.com/file/afbh7k1aps
 -C-                                                                                                                                                                             
 By DanCooper: ("Lost") CASE Animatronics: https://www.mediafire.com/file/iz38y64elhcrma1/case-build-v7.vpk/file                                                                   
 By PatnosD: Chameleon Run: https://www.mediafire.com/file/xn8o0qm1co59ha2/CNRN.vpk/file                                                                                           
-By PatnosD: Coffee Talk: Free Old Ver: https://www.mediafire.com/file/lnqu29gchhl165v/Coffee7.vpk/file                                                                            
+By PatnosD: Coffee Talk: Free Old Ver: https://www.mediafire.com/file/lnqu29gchhl165v/Coffee7.vpk/file Full version (Pay): https://github.com/PatnosDD/Coffee-Talk-PS-VITA      
+By PatnosD: Cylinder: https://www.mediafire.com/file/sw9stibrs5yql6f/cylinder.vpk/file                                                                                          
 
 -D-                                                                                                                                                                             
+By PatnosD: Dome Romantik: https://www.mediafire.com/file/d92oiiy7d59p78s/Dome_Romantik.vpk/file                                                                                 
+By PatnosD: (Broken) Donut County: https://www.mediafire.com/file/kq6drk1m00l0ljx/DonutCounty.vpk/file                                                                           
+By PatnosD: DriftR: https://www.mediafire.com/file/sv33h0kvxtke5gk/DriftR.vpk/file                                                                                               
 
 -E-                                                                                                                                                                             
 
@@ -47,7 +51,7 @@ By PatnosD: Coffee Talk: Free Old Ver: https://www.mediafire.com/file/lnqu29gchh
 By WeegeeDEV/Basdev: FNAF: Allstars: https://www.mediafire.com/file/j7m0xuebufw6px7/Allstars_0.5.0_test.vpk/file                                                                  
 
 -G-                                                                                                                                                                             
-
+By PatnosD: GOTWAM: Free Old Ver: https://www.mediafire.com/file/gr7siyqv82pmr8i/GolfingOverIt1.vpk/file Full Ver (Pay): https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA
 -H-                                                                                                                                                                             
 
 -I-                                                                                                                                                                             
@@ -81,7 +85,8 @@ By BurAndBy and DanCooper: (Abandonned) Raft: https://github.com/BurAndBY/raft_v
 
 -S-                                                                                                                                                                             
 By BurAndBy: Slenderman Returns: https://github.com/BurAndBY/slendermanreturns_vita                                                                                               
-By Malone46: SCP-087 B: https://github.com/malone46/SCP087BVita                                                                                                                   
+By Malone46: (Abandonned) SCP-087 B: https://github.com/malone46/SCP087BVita                                                                                                     
+By PatnosD: Subway Surfers: https://www.mediafire.com/file/rmo3d9roeyye9pn/SubwaySurfers.vpk/file                                                                                 
 
 -T-                                                                                                                                                                             
 
@@ -98,8 +103,8 @@ By Malone46: Vanish: https://github.com/malone46/VanishVita
 
 -Z-
 
-Other ports:
-By BurAndBy: RSDKv4: https://github.com/BurAndBY/RSDKv4-Vita
+Other ports:                                                                                                                                                                      
+By BurAndBy: RSDKv4: https://github.com/BurAndBY/RSDKv4-Vita                                                                                                                     
 
-More things about ports:
-By Rinnegatamante: Android2Vita: https://android.rinnegatamante.it/
+More things about ports:                                                                                                                                                         
+By Rinnegatamante: Android2Vita: https://android.rinnegatamante.it/                                                                                                              
