@@ -20,19 +20,19 @@ Starting now:
 -7-
 
 -8-
-By DanCooper: 8-Bit Bayonnetta: https://www.mediafire.com/file/2nxa9cuussglyer/8BB.vpk/file
+By DanCooper: 8-Bit Bayonnetta: https://www.mediafire.com/file/2nxa9cuussglyer/8BB.vpk/file                                                                                      
 
 -9-
 
 -A-
-By Malone46: An Apparently Normal Room: https://github.com/malone46/AnApparentlyNormalRoom
-By PatnosD: Absolute Drift: https://www.mediafire.com/file/3pzom78053h9vdk/AbsoluteDrift1.1.vpk/file
-By PatnosD: ADOFAI: https://www.mediafire.com/file/z2kncwipsranwfo/ADOFAI.vpk/file
-By mrdivdiz: Age Of War: https://www.mediafire.com/file/bifq9f3fpfthfcv/aowv1.vpk/file
+By Malone46: An Apparently Normal Room: https://github.com/malone46/AnApparentlyNormalRoom                                                                                       
+By PatnosD: Absolute Drift: https://www.mediafire.com/file/3pzom78053h9vdk/AbsoluteDrift1.1.vpk/file                                                                              
+By PatnosD: ADOFAI: https://www.mediafire.com/file/z2kncwipsranwfo/ADOFAI.vpk/file                                                                                               
+By mrdivdiz: Age Of War: https://www.mediafire.com/file/bifq9f3fpfthfcv/aowv1.vpk/file                                                                                           
 
 -B-
-By Malone46: Bewilder House: https://github.com/malone46/BewilderHouseOpSource
-By PatnosD: Bendy And The Ink Machine: https://www.mediafire.com/file/afbh7k1apsosnnz/BatimA03.vpk/file
+By Malone46: Bewilder House: https://github.com/malone46/BewilderHouseOpSource                                                                                                   
+By PatnosD: Bendy And The Ink Machine: https://www.mediafire.com/file/afbh7k1apsosnnz/BatimA03.vpk/file                                                                          
 
 -C-
 By DanCooper: ("Lost") CASE Animatronics: https://www.mediafire.com/file/iz38y64elhcrma1/case-build-v7.vpk/file
