@@ -51,12 +51,16 @@ By PatnosD: Cuphead (Pay): https://github.com/PatnosDD/Cuphead-PS-VITA
 By PatnosD: Dome Romantik: https://www.mediafire.com/file/d92oiiy7d59p78s/Dome_Romantik.vpk/file                                                                                 
 By PatnosD: (Broken) Donut County: https://www.mediafire.com/file/kq6drk1m00l0ljx/DonutCounty.vpk/file                                                                           
 By PatnosD: DriftR: https://www.mediafire.com/file/sv33h0kvxtke5gk/DriftR.vpk/file                                                                                               
+By Rinnegatamante: Dr Fink's Robot Lab: https://github.com/Rinnegatamante/fink_vita                                                                                              
 
 -E-                                                                                                                                                                             
+By Rinnegatamante: EnbornX: https://github.com/Rinnegatamante/enbornx_vita                                                                                                       
 
 -F-                                                                                                                                                                             
 By WeegeeDEV/Basdev: FNAF: Allstars: https://www.mediafire.com/file/j7m0xuebufw6px7/Allstars_0.5.0_test.vpk/file                                                                  
 By Matt19220: FIFA Collection: https://www.mediafire.com/file/y8diktrhu0l6i7s/All_FIFA.txt/file                                                                                   
+By Rinnegatamante: Final Fantasy Dimensions: https://github.com/Rinnegatamante/ffd-vita                                                                                          
+By Rinnegatamante: Freeways: https://github.com/Rinnegatamante/freeways-vita                                                                                                     
 
 -G-                                                                                                                                                                             
 By PatnosD: GOTWAM: Free Old Ver: https://www.mediafire.com/file/gr7siyqv82pmr8i/GolfingOverIt1.vpk/file Full Ver (Pay): https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA                                                                                                                                                                    
@@ -93,6 +97,7 @@ By DanCooper: Midnight Shift Remake: https://www.mediafire.com/file/yu2ujzrrk22z
 -N-                                                                                                                                                                             
 By PatnosD: Night In The Woods: Free Old Ver: https://www.mediafire.com/file/1wjkmqyygbgpitc/NightInTheWoods121.vpk/file Full Ver (Pay): https://github.com/PatnosDD/Night-In-The-Woods-PS-VITA                                                                                                                                                                   
 By DanCooper: ("Lost" And Abandonned) Night of the Consumers: https://www.mediafire.com/file/2x78khkcrnofhr0/notc-build-21.12.2022.vpk/file                                       
+By Rinnegatamante: Not A Hero: https://github.com/Rinnegatamante/not_a_hero-vita                                                                                                 
 
 -O-                                                                                                                                                                             
 By Malone46: (Abandonned) OmniBus: https://github.com/malone46/OmnibusVita                                                                                                        
@@ -108,10 +113,14 @@ By PatnosD: (Abandonned) Pako 2: https://www.mediafire.com/file/7x8ckxxsk9qt1xm/
 By PatnosD: Pureya (Pay): https://github.com/PatnosDD/Pureya-PS-VITA                                                                                                            
 
 -Q-                                                                                                                                                                             
-By Rinnegatamante: Quake\Vitaquake III: https://github.com/Rinnegatamante/vitaQuakeIII                                                                                            
+By Rinnegatamante: Quake\VitaQuake III: https://github.com/Rinnegatamante/vitaQuakeIII                                                                                            
+By Rinnegatamante: Quake\VitaQuake II: https://github.com/Rinnegatamante/vitaQuakeII                                                                                             
+By Rinnegatamante: Quake\VitaQuake I: https://github.com/Rinnegatamante/vitaQuake                                                                                               
+By Rinnegatamante: Quake\VitaQuake Spasm: https://github.com/Rinnegatamante/quakespasm-nzp                                                                                       
 
 -R-                                                                                                                                                                             
 By BurAndBy and DanCooper: (Abandonned) Raft: https://github.com/BurAndBY/raft_vita                                                                                               
+By Rinnegatamante: RVGL: https://github.com/Rinnegatamante/rvgl-vita-native                                                                                                      
 
 -S-                                                                                                                                                                             
 By BurAndBy: Slenderman Returns: https://github.com/BurAndBY/slendermanreturns_vita                                                                                               
@@ -121,11 +130,13 @@ By SpanishFreddy: Sanic Ball: https://www.mediafire.com/file/o2flj9u4rq3fjuv/San
 By SpanishFreddy: Sanic Spin 2006: https://github.com/SpanishFreddy/Sanic-Spin-2006-PSVita                                                                                      
 By SpanishFreddy: Sunshine Cat: https://github.com/SpanishFreddy/Sunshine-Cat-PSVita-Port                                                                                       
 By PatnosD: The Silent Age: https://www.mediafire.com/file/cfwu19ndeqqpnzx/SilentAge.vpk/file                                                                                   
+By Rinnegatamante: Star Trek Voyager: Elite: https://github.com/Rinnegatamante/vitaVoyager                                                                                       
 
 -T-                                                                                                                                                                             
 By DanCooper: ("Lost" and Abandonned) The Stanley Parable: Very Early Build: https://www.mediafire.com/file/02w0915hrtdzdaj/SP_004.vpk/file Half-Life Mod: https://www.mediafire.com/file/0isnjqt8x5uqx46/stanleyalpha.vpk/file                                                                                                                    
 By SnesFX: Temple Run: https://www.mediafire.com/file/vhbvxkj88qu8ic5/Temple.Run.Vita.patch.2.vpk/file                                                                         
 By PatnosD: Traffix: https://www.mediafire.com/file/ghryuelsaqx0956/Traffix.vpk/file                                                                                             
+By Rinnegatamante: Tomb Raider 1 & 2 Classic: https://github.com/Rinnegatamante/raider-vita                                                                                       
 
 -U-                                                                                                                                                                             
 By DanCooper: Urbex: https://www.mediafire.com/file/p3rk1eynpu6myt7/urbex-build.vpk/file                                                                                        
