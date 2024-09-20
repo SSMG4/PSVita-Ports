@@ -82,7 +82,6 @@ By PatnosD: Kindergarden 2: https://www.mediafire.com/file/2ux2dfy7v9l0g10/Kinde
 By PatnosD: Kindergarden: https://www.mediafire.com/file/2f74b88j5manue8/KindergartenNEW.vpk/file                                                                               
 By PatnosD: Kingdom New Land: https://www.mediafire.com/file/kt8aadaxm60te04/KingdomNewLands.vpk/file                                                                           
 By Unknown: Kuudere Sim: https://www.mediafire.com/file/y6590kldagmkxi3/Kuudere.Sim.Vita.v1.vpk/file                                                                           
-By PlayZ: Minecraft 1.3: https://www.mediafire.com/file/7bproxsxcc3lk11/MC_1.3_PS_Vita.zip/file                                                                                  
 By PatnosD: Keep In Mind Remastered (Pay): https://github.com/PatnosDD/Keep-In-Mind-Remastered-PS-VITA                                                                           
 
 -L-                                                                                                                                                                             
@@ -93,6 +92,7 @@ By BurAndBy: Murder In Venise: https://www.mediafire.com/file/92yblt07dwr4vtr/bk
 By Unknown: Mario Maker: https://www.mediafire.com/file/o975ibupy2yq4sf/MAKERTROD.vpk/file                                                                                      
 By DanCooper: Midnight Shift: https://www.mediafire.com/file/qk52pudkilnemvo/ms-build.vpk/file                                                                                  
 By DanCooper: Midnight Shift Remake: https://www.mediafire.com/file/yu2ujzrrk22z8rx/msr-build.vpk/file                                                                          
+By PlayZ: Minecraft 1.3: https://www.mediafire.com/file/7bproxsxcc3lk11/MC_1.3_PS_Vita.zip/file                                                                                  
 
 -N-                                                                                                                                                                             
 By PatnosD: Night In The Woods: Free Old Ver: https://www.mediafire.com/file/1wjkmqyygbgpitc/NightInTheWoods121.vpk/file Full Ver (Pay): https://github.com/PatnosDD/Night-In-The-Woods-PS-VITA                                                                                                                                                                   
