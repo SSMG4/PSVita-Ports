@@ -44,10 +44,10 @@ By Rinnegatamante: [Aerofoil](https://github.com/Rinnegatamante/Aerofoil-Vita)
 By Rinnegatamante: [Abuse](https://github.com/Rinnegatamante/abuse-vita)                                                                                                           
 
 -B-                                                                                                                                                                             
-By Malone46: Bewilder House: https://github.com/malone46/BewilderHouseOpSource                                                                                                   
-By PatnosD: Bendy And The Ink Machine: https://www.mediafire.com/file/afbh7k1apsosnnz/BatimA03.vpk/file                                                                          
-By Rinnegatamante: Beat2x: https://github.com/Rinnegatamante/beat2x-vita                                                                                                          
-By Rinnegatamante: Beat Hazard 2: https://github.com/Rinnegatamante/hazard-vita                                                                                                  
+By Malone46: [Bewilder House](https://github.com/malone46/BewilderHouseOpSource)                                                                                                   
+By PatnosD: [Bendy And The Ink Machine (Unfinished)](https://www.mediafire.com/file/afbh7k1apsosnnz/BatimA03.vpk/file)                                                                          
+By Rinnegatamante: [Beat2x](https://github.com/Rinnegatamante/beat2x-vita)                                                                                                          
+By Rinnegatamante: [Beat Hazard 2](https://github.com/Rinnegatamante/hazard-vita)                                                                                                  
 
 -C-                                                                                                                                                                             
 By DanCooper: ("Lost") CASE Animatronics: https://www.mediafire.com/file/iz38y64elhcrma1/case-build-v7.vpk/file                                                                   
