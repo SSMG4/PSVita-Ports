@@ -12,6 +12,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 ## -1-                                                                                                                                                                             
 
 ## -2-
+- By FantaHourglass: [2048](https://www.rinnegatamante.eu/vitadb/#/info/424)
 
 ## -3-                                                                                                                                                                             
 
