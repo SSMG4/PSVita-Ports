@@ -109,24 +109,24 @@ By Unknown: [Kuudere Sim (Abandoned, Pre-Alpha)](https://www.mediafire.com/file/
 By PatnosD: [Keep In Mind Remastered (Paid)](https://github.com/PatnosDD/Keep-In-Mind-Remastered-PS-VITA)                                                                           
 
 -L-                                                                                                                                                                             
-By PatnosD: Long Spear: https://www.mediafire.com/file/73zh05omz24g24v/LongSpear.vpk/file                                                                                       
+By PatnosD: [Long Spear (Unsure if Finished)](https://www.mediafire.com/file/73zh05omz24g24v/LongSpear.vpk/file)                                                                                       
 
 -M-                                                                                                                                                                             
-By BurAndBy: Murder In Venise: https://www.mediafire.com/file/92yblt07dwr4vtr/bksiyb.vpk/file                                                                                   
-By Unknown: Mario Maker: https://www.mediafire.com/file/o975ibupy2yq4sf/MAKERTROD.vpk/file                                                                                      
-By DanCooper: Midnight Shift: https://www.mediafire.com/file/qk52pudkilnemvo/ms-build.vpk/file                                                                                  
-By DanCooper: Midnight Shift Remake: https://www.mediafire.com/file/yu2ujzrrk22z8rx/msr-build.vpk/file                                                                          
-By PlayZ: Minecraft 1.3: https://www.mediafire.com/file/7bproxsxcc3lk11/MC_1.3_PS_Vita.zip/file                                                                                  
-By Rinnegatamante: McPixel 3: https://github.com/Rinnegatamante/mcpixel-vita                                                                                                      
-By v-atamanenko: Modern Combat 3: https://github.com/v-atamanenko/mc3-vita                                                                                                       
+By BurAndBy: [Murder In Venise (Unsure if Finished)](https://www.mediafire.com/file/92yblt07dwr4vtr/bksiyb.vpk/file)                                                                                   
+By Unknown: [Mario Maker](https://www.mediafire.com/file/o975ibupy2yq4sf/MAKERTROD.vpk/file)                                                                                      
+By DanCooper: [Midnight Shift](https://www.mediafire.com/file/qk52pudkilnemvo/ms-build.vpk/file)                                                                                  
+By DanCooper: [Midnight Shift Remake](https://www.mediafire.com/file/yu2ujzrrk22z8rx/msr-build.vpk/file)                                                                          
+By PlayZ: [Minecraft 1.3](https://www.mediafire.com/file/7bproxsxcc3lk11/MC_1.3_PS_Vita.zip/file)                                                                                  
+By Rinnegatamante: [McPixel 3](https://github.com/Rinnegatamante/mcpixel-vita)                                                                                                      
+By v-atamanenko: [Modern Combat 3](https://github.com/v-atamanenko/mc3-vita)                                                                                                       
 
 -N-                                                                                                                                                                             
-By PatnosD: Night In The Woods: Free Old Ver: https://www.mediafire.com/file/1wjkmqyygbgpitc/NightInTheWoods121.vpk/file Full Ver (Pay): https://github.com/PatnosDD/Night-In-The-Woods-PS-VITA                                                                                                                                                                   
-By DanCooper: ("Lost" And Abandonned) Night of the Consumers: https://www.mediafire.com/file/2x78khkcrnofhr0/notc-build-21.12.2022.vpk/file                                       
-By Rinnegatamante: Not A Hero: https://github.com/Rinnegatamante/not_a_hero-vita                                                                                                 
+By PatnosD: Night In The Woods: [Free Unfinished Ver](https://www.mediafire.com/file/1wjkmqyygbgpitc/NightInTheWoods121.vpk/file) or [Full Paid Ver](https://github.com/PatnosDD/Night-In-The-Woods-PS-VITA)                                                                                                                                                                   
+By DanCooper: [Night of the Consumers ("Lost" And Abandonned)](https://www.mediafire.com/file/2x78khkcrnofhr0/notc-build-21.12.2022.vpk/file)                                       
+By Rinnegatamante: [Not A Hero](https://github.com/Rinnegatamante/not_a_hero-vita)                                                                                                 
 
 -O-                                                                                                                                                                             
-By Malone46: (Abandonned) OmniBus: https://github.com/malone46/OmnibusVita                                                                                                        
+By Malone46: [OmniBus (Abandonned)](https://github.com/malone46/OmnibusVita)                                                                                                        
 
 -P-                                                                                                                                                                             
 By Rinnegatamante: Pickleball Pro: https://github.com/Rinnegatamante/pickleball_vita                                                                                              
