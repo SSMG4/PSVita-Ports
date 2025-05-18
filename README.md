@@ -175,33 +175,33 @@ By Rinnegatamante: [Sleepwalker’s Journey](https://github.com/Rinnegatamante/s
 By v-atamanenko: [Sonic 3 A.I.R](https://github.com/v-atamanenko/sonic3air)                                                                                                        
 
 -T-                                                                                                                                                                             
-By DanCooper: ("Lost" and Abandonned) The Stanley Parable: Very Early Build: https://www.mediafire.com/file/02w0915hrtdzdaj/SP_004.vpk/file Half-Life Mod: https://www.mediafire.com/file/0isnjqt8x5uqx46/stanleyalpha.vpk/file                                                                                                                    
-By SnesFX: Temple Run: https://www.mediafire.com/file/vhbvxkj88qu8ic5/Temple.Run.Vita.patch.2.vpk/file                                                                         
-By PatnosD: Traffix: https://www.mediafire.com/file/ghryuelsaqx0956/Traffix.vpk/file                                                                                             
-By Rinnegatamante: Tomb Raider 1 & 2 Classic: https://github.com/Rinnegatamante/raider-vita                                                                                       
-By Rinnegatamante: Thimbleweed Park: https://github.com/Rinnegatamante/thimbleweed-vita                                                                                          
+By DanCooper: The Stanley Parable ("Lost" and Abandonned): [Very Early Build](https://www.mediafire.com/file/02w0915hrtdzdaj/SP_004.vpk/file) or [Half-Life Mod](https://www.mediafire.com/file/0isnjqt8x5uqx46/stanleyalpha.vpk/file)                                                                                                                    
+By SnesFX: [Temple Run (Unsure if Finished)](https://www.mediafire.com/file/vhbvxkj88qu8ic5/Temple.Run.Vita.patch.2.vpk/file)                                                                         
+By PatnosD: [Traffix (Unsure if Finished)](https://www.mediafire.com/file/ghryuelsaqx0956/Traffix.vpk/file)                                                                                             
+By Rinnegatamante: [Tomb Raider 1 & 2 Classic](https://github.com/Rinnegatamante/raider-vita)                                                                                       
+By Rinnegatamante: [Thimbleweed Park](https://github.com/Rinnegatamante/thimbleweed-vita)                                                                                          
 
 -U-                                                                                                                                                                             
-By DanCooper: Urbex: https://www.mediafire.com/file/p3rk1eynpu6myt7/urbex-build.vpk/file                                                                                        
-By SnesFX: Sonic Uptopia: https://www.mediafire.com/file/woqxp9obq9sq003/Utopia_Vita_Final.vpk/file                                                                              
-By PatnosD: (Abandonned) Untitled Goose Game (Pay): https://github.com/PatnosDD/Untitled-Goose-Game-PS-VITA                                                                       
+By DanCooper: [Urbex (Unsure if Finished)](https://www.mediafire.com/file/p3rk1eynpu6myt7/urbex-build.vpk/file)                                                                                        
+By SnesFX: [Sonic Uptopia](https://www.mediafire.com/file/woqxp9obq9sq003/Utopia_Vita_Final.vpk/file)                                                                              
+By PatnosD: [Untitled Goose Game (Paid & Abandoned)](https://github.com/PatnosDD/Untitled-Goose-Game-PS-VITA)                                                                       
 
 -V-                                                                                                                                                                             
-By Malone46: Vanish: https://github.com/malone46/VanishVita                                                                                                                       
+By Malone46: [Vanish (Unsure if Finished)](https://github.com/malone46/VanishVita)                                                                                                                       
 
 -W-                                                                                                                                                                             
-By Rinnegatamante: World Of Goo: https://github.com/Rinnegatamante/goo_vita                                                                                                      
+By Rinnegatamante: [World Of Goo](https://github.com/Rinnegatamante/goo_vita)                                                                                                      
 
 -X-                                                                                                                                                                             
 
 -Y-                                                                                                                                                                             
 
 -Z-
-By Rinnegatamante: Zik-Zak: https://github.com/Rinnegatamante/zikzak-vita                                                                                                        
+By Rinnegatamante: [Zik-Zak](https://github.com/Rinnegatamante/zikzak-vita)                                                                                                        
 
 Other ports:                                                                                                                                                                      
-By BurAndBy: RSDKv4: https://github.com/BurAndBY/RSDKv4-Vita                                                                                                                     
+By BurAndBy: [RSDKv4 (Sonic Engine)](https://github.com/BurAndBY/RSDKv4-Vita)                                                                                                                     
 
-More things about ports:                                                                                                                                                         
-By Rinnegatamante: Android2Vita: Github: https://github.com/Rinnegatamante/Android2Vita-Candidate-Ports-List List: https://android.rinnegatamante.it/                             
-By Rinnegatamante: YoYo Loader: Github: https://github.com/Rinnegatamante/yoyoloader_vita Compatibilities: https://yoyo.rinnegatamante.it/                                        
+More Ports Related:                                                                                                                                                         
+By Rinnegatamante: Android2Vita: [Github](https://github.com/Rinnegatamante/Android2Vita-Candidate-Ports-List) & [Compatibility](https://rinnegatamante.eu/android)                           
+By Rinnegatamante: YoYo Loader: [Github](https://github.com/Rinnegatamante/yoyoloader_vita) & [Compatibilities](https://rinnegatamante.eu/yoyo)                                        
