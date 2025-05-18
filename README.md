@@ -50,8 +50,8 @@ By Rinnegatamante: [Beat2x](https://github.com/Rinnegatamante/beat2x-vita)
 By Rinnegatamante: [Beat Hazard 2](https://github.com/Rinnegatamante/hazard-vita)                                                                                                  
 
 -C-                                                                                                                                                                             
-By DanCooper: ("Lost") CASE Animatronics: https://www.mediafire.com/file/iz38y64elhcrma1/case-build-v7.vpk/file                                                                   
-By PatnosD: Chameleon Run: https://www.mediafire.com/file/xn8o0qm1co59ha2/CNRN.vpk/file                                                                                           
+By DanCooper: [CASE Animatronics ("Lost" & Unfinished)](https://www.mediafire.com/file/iz38y64elhcrma1/case-build-v7.vpk/file)                                                                   
+By PatnosD: [Chameleon Run (Unsure if Finished)](https://www.mediafire.com/file/xn8o0qm1co59ha2/CNRN.vpk/file)                                                                                           
 By PatnosD: Coffee Talk: Free Old Ver: https://www.mediafire.com/file/lnqu29gchhl165v/Coffee7.vpk/file Full version (Pay): https://github.com/PatnosDD/Coffee-Talk-PS-VITA      
 By DanCooper: Cylinder: https://www.mediafire.com/file/sw9stibrs5yql6f/cylinder.vpk/file                                                                                          
 By Unknown: Don't Open Your Eyes: https://www.mediafire.com/file/lntea0pa9c4ec4m/%2528Don%2527t%2529Open_Your_Eyes-1.0_PS_Vita_Port.zip/file                                     
