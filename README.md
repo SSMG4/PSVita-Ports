@@ -1,9 +1,9 @@
 # PSVita Ports
-I put every PSVita games port i could find (Including abandonned ports, "lost ports" and other ports you've probably never heard of before) here to make an awesome list for you to enjoy!                                                                                                                                                                        
+This Repository aims to put every PSVita game port (Including Abandonned Ports, "Lost Ports" and other Ports you've probably never heard of) into an awesome list for you to enjoy!                                                                                                                                                                        
 
-I can make mistakes sometimes so if you want to correct me, make an issue, ill correct it                                                                                   
-If you wanna add a VPK, make an issue                                                                                                                          
-I also dont know every creators of all ports so i called some Unknown for unknow creators. I want to give credits to everyone so if you know one of them, say it here, thank you! 
+- I can make mistakes sometimes so if you want to correct me, make an issue, ill correct it                                                                                   
+- If you wanna add a VPK, make an issue                                                                                                                          
+- I also dont know every creators of all ports so i called some Unknown for Unknown Creators. I want to give credits to everyone so if you know one of them, say it here, thank you! 
 
 (Be aware that while there is an alphabetic summary, the games in each letters are not in order, i apologize for that)
 
