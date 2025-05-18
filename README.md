@@ -60,23 +60,23 @@ By PatnosD: [Cuphead (Paid)](https://github.com/PatnosDD/Cuphead-PS-VITA)
 By Rinnegatamante: [Castlevania Symphony of the Night](https://github.com/Rinnegatamante/sotn-vita)                                                                                
 
 -D-                                                                                                                                                                             
-By PatnosD: Dome Romantik: https://www.mediafire.com/file/d92oiiy7d59p78s/Dome_Romantik.vpk/file                                                                                 
-By PatnosD: (Broken) Donut County: https://www.mediafire.com/file/kq6drk1m00l0ljx/DonutCounty.vpk/file                                                                           
+By PatnosD: [Dome Romantik](https://www.mediafire.com/file/d92oiiy7d59p78s/Dome_Romantik.vpk/file)                                                                                 
+By PatnosD: [Donut County (Unfinished & Broken)](https://www.mediafire.com/file/kq6drk1m00l0ljx/DonutCounty.vpk/file)                                                                           
 By PatnosD: DriftR: https://www.mediafire.com/file/sv33h0kvxtke5gk/DriftR.vpk/file                                                                                               
-By Rinnegatamante: Dr Fink's Robot Lab: https://github.com/Rinnegatamante/fink_vita                                                                                              
-By Rinnegatamante: Desert Golfing: https://github.com/Rinnegatamante/desertgolfing_vita                                                                                          
-By Rinnegatamante: Doom 3: https://github.com/Rinnegatamante/d3es-vita                                                                                                           
-By Rinnegatamante: Death Road to Canada: https://github.com/Rinnegatamante/Death-Road-to-Canada-Lite                                                                              
+By Rinnegatamante: [Dr Fink's Robot Lab] (https://github.com/Rinnegatamante/fink_vita)                                                                                              
+By Rinnegatamante: [Desert Golfing](https://github.com/Rinnegatamante/desertgolfing_vita)                                                                                          
+By Rinnegatamante: [Doom 3](https://github.com/Rinnegatamante/d3es-vita)                                                                                                           
+By Rinnegatamante: [Death Road to Canada](https://github.com/Rinnegatamante/Death-Road-to-Canada-Lite)                                                                              
 
 -E-                                                                                                                                                                             
-By Rinnegatamante: EnbornX: https://github.com/Rinnegatamante/enbornx_vita                                                                                                       
-By Rinnegatamante: Eldritch Reanimated: https://github.com/Rinnegatamante/eldritch-vita                                                                                           
+By Rinnegatamante: [EnbornX](https://github.com/Rinnegatamante/enbornx_vita)                                                                                                       
+By Rinnegatamante: [Eldritch Reanimated](https://github.com/Rinnegatamante/eldritch-vita)                                                                                           
 
 -F-                                                                                                                                                                             
-By WeegeeDEV/Basdev: FNAF: Allstars: https://www.mediafire.com/file/j7m0xuebufw6px7/Allstars_0.5.0_test.vpk/file                                                                  
-By Matt19220: FIFA Collection: https://www.mediafire.com/file/y8diktrhu0l6i7s/All_FIFA.txt/file                                                                                   
-By Rinnegatamante: Final Fantasy Dimensions: https://github.com/Rinnegatamante/ffd-vita                                                                                          
-By Rinnegatamante: Freeways: https://github.com/Rinnegatamante/freeways-vita                                                                                                     
+By WeegeeDEV/Basdev: [FNAF Allstars (Unfinished)] (https://www.mediafire.com/file/j7m0xuebufw6px7/Allstars_0.5.0_test.vpk/file)                                                                  
+By Matt19220: [The FIFA Collection](https://www.mediafire.com/file/y8diktrhu0l6i7s/All_FIFA.txt/file)                                                                                   
+By Rinnegatamante: [Final Fantasy Dimensions](https://github.com/Rinnegatamante/ffd-vita)                                                                                          
+By Rinnegatamante: [Freeways](https://github.com/Rinnegatamante/freeways-vita)                                                                                                     
 By Rinnegatamante: Freespace 1 & 2: https://github.com/Rinnegatamante/freespace-vita                                                                                             
 By Rinnegatamante: Final Fantasy 4: https://github.com/Rinnegatamante/ff4_vita                                                                                                   
 By Rinnegatamante: Fahrenheit: Indigo Prophecy: https://github.com/Rinnegatamante/fahrenheit-vita                                                                                
