@@ -35,10 +35,10 @@ By PatnosD: [Absolute Drift](https://www.mediafire.com/file/3pzom78053h9vdk/Abso
 By PatnosD: [ADOFAI (Unfinished)](https://www.mediafire.com/file/z2kncwipsranwfo/ADOFAI.vpk/file)                                                                                               
 By mrdivdiz: [Age Of War](https://www.mediafire.com/file/bifq9f3fpfthfcv/aowv1.vpk/file)                                                                                           
 By SpanishFreddy: [Angry Neighbor (Unfinished)](https://github.com/SpanishFreddy/Angry-Neighbor-PSVita)                                                                                        
-By Rinnegatamante: AvP Gold: https://github.com/Rinnegatamante/AvP-Gold-Vita                                                                                                     
-By Rinnegatamante: Anomaly: Warzone Earth HD: https://github.com/Rinnegatamante/anomaly-we_vita                                                                                  
-By Rinnegatamante: Anomaly Defenders: https://github.com/Rinnegatamante/anomaly-defenders_vita                                                                                    
-By Rinnegatamante: Anomaly: Korea: https://github.com/Rinnegatamante/anomaly-korea_vita                                                                                           
+By Rinnegatamante: [AvP Gold](https://github.com/Rinnegatamante/AvP-Gold-Vita)                                                                                                     
+By Rinnegatamante: [Anomaly Warzone Earth HD](https://github.com/Rinnegatamante/anomaly-we_vita)                                                                                  
+By Rinnegatamante: [Anomaly Defenders](https://github.com/Rinnegatamante/anomaly-defenders_vita)                                                                                    
+By Rinnegatamante: [Anomaly Korea](https://github.com/Rinnegatamante/anomaly-korea_vita)                                                                                           
 By Rinnegatamante: Anomaly 2: https://github.com/Rinnegatamante/anomaly2_vita                                                                                                    
 By Rinnegatamante: Aerofoil: https://github.com/Rinnegatamante/Aerofoil-Vita                                                                                                     
 By Rinnegatamante: Abuse: https://github.com/Rinnegatamante/abuse-vita                                                                                                           
