@@ -98,15 +98,15 @@ By Rinnegatamante: [Human Ressource Machine](https://github.com/Rinnegatamante/h
 -I-                                                                                                                                                                             
 
 -J-                                                                                                                                                                             
-By Malone46: Jazzpunk: https://github.com/malone46/JazzpunkVita                                                                                                                   
-By Rinnegatamante: Jet Car Stunts 2: https://github.com/Rinnegatamante/jetcarstunts_vita                                                                                         
+By Malone46: [Jazzpunk (Unreleased)](https://github.com/malone46/JazzpunkVita)                                                                                                                   
+By Rinnegatamante: [Jet Car Stunts 2](https://github.com/Rinnegatamante/jetcarstunts_vita)                                                                                         
 
 -K-                                                                                                                                                                             
-By PatnosD: Kindergarden 2: https://www.mediafire.com/file/2ux2dfy7v9l0g10/Kindergarten2.vpk/file                                                                                 
-By PatnosD: Kindergarden: https://www.mediafire.com/file/2f74b88j5manue8/KindergartenNEW.vpk/file                                                                               
-By PatnosD: Kingdom New Land: https://www.mediafire.com/file/kt8aadaxm60te04/KingdomNewLands.vpk/file                                                                           
-By Unknown: Kuudere Sim: https://www.mediafire.com/file/y6590kldagmkxi3/Kuudere.Sim.Vita.v1.vpk/file                                                                           
-By PatnosD: Keep In Mind Remastered (Pay): https://github.com/PatnosDD/Keep-In-Mind-Remastered-PS-VITA                                                                           
+By PatnosD: [Kindergarden 2](https://www.mediafire.com/file/2ux2dfy7v9l0g10/Kindergarten2.vpk/file)                                                                                 
+By PatnosD: [Kindergarden](https://www.mediafire.com/file/2f74b88j5manue8/KindergartenNEW.vpk/file)                                                                               
+By PatnosD: [Kingdom New Land (Unsure if Finished)](https://www.mediafire.com/file/kt8aadaxm60te04/KingdomNewLands.vpk/file)                                                                           
+By Unknown: [Kuudere Sim (Abandoned, Pre-Alpha)](https://www.mediafire.com/file/y6590kldagmkxi3/Kuudere.Sim.Vita.v1.vpk/file)                                                                           
+By PatnosD: [Keep In Mind Remastered (Paid)](https://github.com/PatnosDD/Keep-In-Mind-Remastered-PS-VITA)                                                                           
 
 -L-                                                                                                                                                                             
 By PatnosD: Long Spear: https://www.mediafire.com/file/73zh05omz24g24v/LongSpear.vpk/file                                                                                       
