@@ -39,9 +39,9 @@ By Rinnegatamante: [AvP Gold](https://github.com/Rinnegatamante/AvP-Gold-Vita)
 By Rinnegatamante: [Anomaly Warzone Earth HD](https://github.com/Rinnegatamante/anomaly-we_vita)                                                                                  
 By Rinnegatamante: [Anomaly Defenders](https://github.com/Rinnegatamante/anomaly-defenders_vita)                                                                                    
 By Rinnegatamante: [Anomaly Korea](https://github.com/Rinnegatamante/anomaly-korea_vita)                                                                                           
-By Rinnegatamante: Anomaly 2: https://github.com/Rinnegatamante/anomaly2_vita                                                                                                    
-By Rinnegatamante: Aerofoil: https://github.com/Rinnegatamante/Aerofoil-Vita                                                                                                     
-By Rinnegatamante: Abuse: https://github.com/Rinnegatamante/abuse-vita                                                                                                           
+By Rinnegatamante: [Anomaly 2](https://github.com/Rinnegatamante/anomaly2_vita)                                                                                                    
+By Rinnegatamante: [Aerofoil](https://github.com/Rinnegatamante/Aerofoil-Vita)                                                                                                     
+By Rinnegatamante: [Abuse](https://github.com/Rinnegatamante/abuse-vita)                                                                                                           
 
 -B-                                                                                                                                                                             
 By Malone46: Bewilder House: https://github.com/malone46/BewilderHouseOpSource                                                                                                   
