@@ -22,10 +22,10 @@ Starting now:
 -6-                                                                                                                                                                             
 
 -7-                                                                                                                                                                             
-By Rinnegatamante: (7 Billon Humans)[https://github.com/Rinnegatamante/seven-vita]                                                                                                 
+By Rinnegatamante: [7 Billon Humans](https://github.com/Rinnegatamante/seven-vita)                                                                                                 
 
 -8-                                                                                                                                                                              
-By DanCooper: (8-Bit Bayonettahttps)[://www.mediafire.com/file/2nxa9cuussglyer/8BB.vpk/file]                                                                                      
+By DanCooper: [8-Bit Bayonettahttps](https://www.mediafire.com/file/2nxa9cuussglyer/8BB.vpk/file)                                                                                      
 
 -9-                                                                                                                                                                             
 
