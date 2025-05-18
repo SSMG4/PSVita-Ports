@@ -129,22 +129,22 @@ By Rinnegatamante: [Not A Hero](https://github.com/Rinnegatamante/not_a_hero-vit
 By Malone46: [OmniBus (Abandonned)](https://github.com/malone46/OmnibusVita)                                                                                                        
 
 -P-                                                                                                                                                                             
-By Rinnegatamante: Pickleball Pro: https://github.com/Rinnegatamante/pickleball_vita                                                                                              
-By BurAndBy: (Abandonned) Portal Still Alive/Rewrite: https://github.com/BurAndBY/PortalRewrite                                                                                   
-By Malone46: PlugAndPlay: https://github.com/malone46/Plug-PlayVita                                                                                                               
-By Malone46: Pizza Delivery: https://github.com/malone46/PizzaDeliveryVita                                                                                                        
-By DanCooper: ("Lost") Portal: https://www.mediafire.com/file/miimsq9et7eatts/Portal_Vita.vpk/file                                                                              
-By PatnosD: Prune: https://www.mediafire.com/file/umqf591xtfsxj1b/Prune.vpk/file                                                                                                
-By PatnosD: (Abandonned) Pako 2: https://www.mediafire.com/file/7x8ckxxsk9qt1xm/Pako_2.zip/file                                                                                 
-By PatnosD: Pureya (Pay): https://github.com/PatnosDD/Pureya-PS-VITA                                                                                                            
-By Rinnegatamante: Professor Layton: Lost Hope HD: https://github.com/Rinnegatamante/layton3-vita                                                                                
-By Rinnegatamante: Professor Layton: Pandora's Box HD: https://github.com/Rinnegatamante/layton2-vita                                                                            
-By Rinnegatamante: Professor Layton: Curious Village HD: https://github.com/Rinnegatamante/layton-vita                                                                           
-By Rinnegatamante: ProtoType (RType remake): https://github.com/Rinnegatamante/prototype-vita                                                                                     
-By Rinnegatamante: Superfluous Returnz: https://github.com/Rinnegatamante/superfluous-vita                                                                                        
-By Rinnegatamante: Poppy Kart and Poppy Kart 2: https://github.com/Rinnegatamante/Poppy-Kart-Collection                                                                          
-By Rinnegatamante: Pekka Kana 2: https://github.com/Rinnegatamante/Pekka-Kana-2-Vita                                                                                              
-By Rinnegatamante: Partia 1/2/3: https://github.com/Rinnegatamante/partia-vita                                                                                                  
+By Rinnegatamante: [Pickleball Pro](https://github.com/Rinnegatamante/pickleball_vita)                                                                                              
+By BurAndBy: [Portal Still Alive/Rewrite (Abandonned)](https://github.com/BurAndBY/PortalRewrite)                                                                                   
+By Malone46: [PlugAndPlay (Unsure if Finished)](https://github.com/malone46/Plug-PlayVita)                                                                                                               
+By Malone46: [Pizza Delivery (Unsure if Finished)](https://github.com/malone46/PizzaDeliveryVita)                                                                                                        
+By DanCooper: [Portal ("Lost" & Abandonned)](https://www.mediafire.com/file/miimsq9et7eatts/Portal_Vita.vpk/file)                                                                              
+By PatnosD: [Prune (Unsure if Finished)](https://www.mediafire.com/file/umqf591xtfsxj1b/Prune.vpk/file)                                                                                                
+By PatnosD: [Pako 2 (Abandonned)](https://www.mediafire.com/file/7x8ckxxsk9qt1xm/Pako_2.zip/file)                                                                                 
+By PatnosD: [Pureya (Paid)](https://github.com/PatnosDD/Pureya-PS-VITA)                                                                                                            
+By Rinnegatamante: [Professor Layton Lost Hope HD](https://github.com/Rinnegatamante/layton3-vita)                                                                                
+By Rinnegatamante: [Professor Layton Pandora's Box HD](https://github.com/Rinnegatamante/layton2-vita)                                                                            
+By Rinnegatamante: [Professor Layton Curious Village HD](https://github.com/Rinnegatamante/layton-vita)                                                                           
+By Rinnegatamante: [ProtoType (RType remake)](https://github.com/Rinnegatamante/prototype-vita)                                                                                     
+By Rinnegatamante: [Superfluous Returnz](https://github.com/Rinnegatamante/superfluous-vita)                                                                                        
+By Rinnegatamante: [Poppy Kart and Poppy Kart 2](https://github.com/Rinnegatamante/Poppy-Kart-Collection)                                                                          
+By Rinnegatamante: [Pekka Kana 2](https://github.com/Rinnegatamante/Pekka-Kana-2-Vita)                                                                                              
+By Rinnegatamante: [Partia 1/2/3](https://github.com/Rinnegatamante/partia-vita)                                                                                                  
 
 -Q-                                                                                                                                                                             
 By Rinnegatamante: Quake\VitaQuake III: https://github.com/Rinnegatamante/vitaQuakeIII                                                                                            
