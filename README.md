@@ -147,32 +147,32 @@ By Rinnegatamante: [Pekka Kana 2](https://github.com/Rinnegatamante/Pekka-Kana-2
 By Rinnegatamante: [Partia 1/2/3](https://github.com/Rinnegatamante/partia-vita)                                                                                                  
 
 -Q-                                                                                                                                                                             
-By Rinnegatamante: Quake\VitaQuake III: https://github.com/Rinnegatamante/vitaQuakeIII                                                                                            
-By Rinnegatamante: Quake\VitaQuake II: https://github.com/Rinnegatamante/vitaQuakeII                                                                                             
-By Rinnegatamante: Quake\VitaQuake I: https://github.com/Rinnegatamante/vitaQuake                                                                                               
-By Rinnegatamante: Quake\VitaQuake Spasm: https://github.com/Rinnegatamante/quakespasm-nzp                                                                                       
+By Rinnegatamante: [(Vita)Quake III](https://github.com/Rinnegatamante/vitaQuakeIII)                                                                                            
+By Rinnegatamante: [(Vita)Quake II](https://github.com/Rinnegatamante/vitaQuakeII)                                                                                             
+By Rinnegatamante: [(Vita)Quake I](https://github.com/Rinnegatamante/vitaQuake)                                                                                               
+By Rinnegatamante: [(Vita)Quake Spasm](https://github.com/Rinnegatamante/quakespasm-nzp)                                                                                       
 
 -R-                                                                                                                                                                             
-By BurAndBy and DanCooper: (Abandonned) Raft: https://github.com/BurAndBY/raft_vita                                                                                               
-By Rinnegatamante: RVGL: https://github.com/Rinnegatamante/rvgl-vita-native                                                                                                      
-By Rinnegatamante: RollerCoaster Tycoon Classic:https://github.com/Rinnegatamante/rct-vita                                                                                       
-By Rinnegatamante: Real-Time Racing Manager: https://github.com/Rinnegatamante/rrm-vita                                                                                          
-By Rinnegatamante: Return to Castle Wolfenstein: https://github.com/Rinnegatamante/vitaRTCW                                                                                      
+By BurAndBy and DanCooper: [Raft (Abandonned)](https://github.com/BurAndBY/raft_vita)                                                                                               
+By Rinnegatamante: [RVGL](https://github.com/Rinnegatamante/rvgl-vita-native)                                                                                                      
+By Rinnegatamante: [RollerCoaster Tycoon Classic](https://github.com/Rinnegatamante/rct-vita)                                                                                       
+By Rinnegatamante: [Real-Time Racing Manager](https://github.com/Rinnegatamante/rrm-vita)                                                                                          
+By Rinnegatamante: [Return to Castle Wolfenstein](https://github.com/Rinnegatamante/vitaRTCW)                                                                                      
 
 -S-                                                                                                                                                                             
-By BurAndBy: Slenderman Returns: https://github.com/BurAndBY/slendermanreturns_vita                                                                                               
-By Malone46: (Abandonned) SCP-087 B: https://github.com/malone46/SCP087BVita                                                                                                     
-By PatnosD: Subway Surfers: https://www.mediafire.com/file/rmo3d9roeyye9pn/SubwaySurfers.vpk/file                                                                                 
-By SpanishFreddy: Sanic Ball: https://www.mediafire.com/file/o2flj9u4rq3fjuv/SanicBall_PSVita_v4.vpk/file                                                                       
-By SpanishFreddy: Sanic Spin 2006: https://github.com/SpanishFreddy/Sanic-Spin-2006-PSVita                                                                                      
-By SpanishFreddy: Sunshine Cat: https://github.com/SpanishFreddy/Sunshine-Cat-PSVita-Port                                                                                       
-By PatnosD: The Silent Age: https://www.mediafire.com/file/cfwu19ndeqqpnzx/SilentAge.vpk/file                                                                                   
-By Rinnegatamante: Star Trek Voyager: Elite: https://github.com/Rinnegatamante/vitaVoyager                                                                                       
-By Rinnegatamante: Swordigo: https://github.com/Rinnegatamante/swordigo-vita                                                                                                     
-By Rinnegatamante: Soulcalibur: https://github.com/Rinnegatamante/soulcalibur_vita                                                                                               
-By Rinnegatamante: Super Monkey Ball 2: Sakura Edition: https://github.com/Rinnegatamante/smb2se-vita                                                                             
-By Rinnegatamante: Sleepwalker’s Journey: https://github.com/Rinnegatamante/sleepwalkers-vita                                                                                     
-By v-atamanenko: Sonic 3 A.I.R: https://github.com/v-atamanenko/sonic3air                                                                                                        
+By BurAndBy: [Slenderman Returns (Unsure if Finished)](https://github.com/BurAndBY/slendermanreturns_vita)                                                                                               
+By Malone46: [SCP-087 B (Abandonned)](https://github.com/malone46/SCP087BVita)                                                                                                     
+By PatnosD: [Subway Surfers (Unfinished)](https://www.mediafire.com/file/rmo3d9roeyye9pn/SubwaySurfers.vpk/file)                                                                                 
+By SpanishFreddy: [Sanic Ball (Unsure if Finished)](https://www.mediafire.com/file/o2flj9u4rq3fjuv/SanicBall_PSVita_v4.vpk/file)                                                                       
+By SpanishFreddy: [Sanic Spin 2006 (Unsure if Finished](https://github.com/SpanishFreddy/Sanic-Spin-2006-PSVita)                                                                                      
+By SpanishFreddy: [Sunshine Cat (Unsure if Finished)](https://github.com/SpanishFreddy/Sunshine-Cat-PSVita-Port)                                                                                       
+By PatnosD: [The Silent Age (Unsure if Finished)](https://www.mediafire.com/file/cfwu19ndeqqpnzx/SilentAge.vpk/file)                                                                                   
+By Rinnegatamante: [Star Trek Voyager Elite](https://github.com/Rinnegatamante/vitaVoyager)                                                                                       
+By Rinnegatamante: [Swordigo](https://github.com/Rinnegatamante/swordigo-vita)                                                                                                     
+By Rinnegatamante: [Soulcalibur](https://github.com/Rinnegatamante/soulcalibur_vita)                                                                                               
+By Rinnegatamante: [Super Monkey Ball 2 Sakura Edition](https://github.com/Rinnegatamante/smb2se-vita)                                                                             
+By Rinnegatamante: [Sleepwalker’s Journey](https://github.com/Rinnegatamante/sleepwalkers-vita)                                                                                     
+By v-atamanenko: [Sonic 3 A.I.R](https://github.com/v-atamanenko/sonic3air)                                                                                                        
 
 -T-                                                                                                                                                                             
 By DanCooper: ("Lost" and Abandonned) The Stanley Parable: Very Early Build: https://www.mediafire.com/file/02w0915hrtdzdaj/SP_004.vpk/file Half-Life Mod: https://www.mediafire.com/file/0isnjqt8x5uqx46/stanleyalpha.vpk/file                                                                                                                    
