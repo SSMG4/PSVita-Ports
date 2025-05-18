@@ -1,8 +1,8 @@
-# PSVita-Ports
-I put every PSVita games port i could find (Including abandonned ports, "lost ports" and other ports you've probably never heard before) here to make an awesome list for you to enjoy!                                                                                                                                                                        
+# PSVita Ports
+I put every PSVita games port i could find (Including abandonned ports, "lost ports" and other ports you've probably never heard of before) here to make an awesome list for you to enjoy!                                                                                                                                                                        
 
-I can make mistakes sometimes so if you want to correct me, say it in the comment, ill correct                                                                                    
-To ask me to add a VPK, say it on discord at @matt19220                                                                                                                           
+I can make mistakes sometimes so if you want to correct me, make an issue, ill correct it                                                                                   
+If you wanna add a VPK, make an issue                                                                                                                          
 I also dont know every creators of all ports so i called some Unknown for unknow creators. I want to give credits to everyone so if you know one of them, say it here, thank you! 
 
 (Be aware that while there is an alphabetic summary, the games in each letters are not in order, i apologize for that)
@@ -30,7 +30,7 @@ By DanCooper: [8-Bit Bayonettahttps](https://www.mediafire.com/file/2nxa9cuussgl
 -9-                                                                                                                                                                             
 
 -A-                                                                                                                                                                             
-By Malone46: An Apparently Normal Room: https://github.com/malone46/AnApparentlyNormalRoom                                                                                       
+By Malone46: [An Apparently Normal Room](https://github.com/malone46/AnApparentlyNormalRoom)                                                                                       
 By PatnosD: Absolute Drift: https://www.mediafire.com/file/3pzom78053h9vdk/AbsoluteDrift1.1.vpk/file                                                                              
 By PatnosD: ADOFAI: https://www.mediafire.com/file/z2kncwipsranwfo/ADOFAI.vpk/file                                                                                               
 By mrdivdiz: Age Of War: https://www.mediafire.com/file/bifq9f3fpfthfcv/aowv1.vpk/file                                                                                           
