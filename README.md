@@ -84,7 +84,7 @@ By Rinnegatamante: [Final Fantasy 4: After Years](https://github.com/Rinnegatama
 By Rinnegatamante: [Funky Smugglers](https://github.com/Rinnegatamante/funky_vita)                                                                                                
 
 -G-                                                                                                                                                                             
-By PatnosD: [Golfing Over It]: [Free Unfinished Ver](https://www.mediafire.com/file/gr7siyqv82pmr8i/GolfingOverIt1.vpk/file) or [Full Paid Ver](https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA)                                                                                                                                                                    
+By PatnosD: Golfing Over It: [Free Unfinished Ver](https://www.mediafire.com/file/gr7siyqv82pmr8i/GolfingOverIt1.vpk/file) or [Full Paid Ver](https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA)                                                                                                                                                                    
 By Matt19220: [The GTA Collection](https://www.mediafire.com/file/ykd05o6idvnni2p/gta_data.txt/file)                                                                                   
 By Rinnegatamante: [Galcon 2 and BREAKFINITY](https://github.com/Rinnegatamante/hassey-collection)                                                                                 
 
