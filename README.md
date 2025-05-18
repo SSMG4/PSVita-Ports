@@ -84,16 +84,16 @@ By Rinnegatamante: [Final Fantasy 4: After Years](https://github.com/Rinnegatama
 By Rinnegatamante: [Funky Smugglers](https://github.com/Rinnegatamante/funky_vita)                                                                                                
 
 -G-                                                                                                                                                                             
-By PatnosD: [Golfing Over It]: [Free Old Ver](https://www.mediafire.com/file/gr7siyqv82pmr8i/GolfingOverIt1.vpk/file) or [Full Paid Ver](https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA)                                                                                                                                                                    
+By PatnosD: [Golfing Over It]: [Free Unfinished Ver](https://www.mediafire.com/file/gr7siyqv82pmr8i/GolfingOverIt1.vpk/file) or [Full Paid Ver](https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA)                                                                                                                                                                    
 By Matt19220: [The GTA Collection](https://www.mediafire.com/file/ykd05o6idvnni2p/gta_data.txt/file)                                                                                   
 By Rinnegatamante: [Galcon 2 and BREAKFINITY](https://github.com/Rinnegatamante/hassey-collection)                                                                                 
 
 -H-                                                                                                                                                                             
-By PatnosD: Hellrider: https://www.mediafire.com/file/g2y8tfj5vthmu95/Hellrider.vpk/file                                                                                         
-By PatnosD: Help No Brake: https://www.mediafire.com/file/70fwiwbfbpu3vv6/HELP_NO_BRAKE.vpk/file                                                                                 
-By PatnosD: ("Lost") Half-Life 2: Deathmatch: https://www.mediafire.com/file/2g0pir6piuxp8k0/hl2_dm.vpk/file                                                                    
-By PatnosD: Hollow Knight: https://www.mediafire.com/file/5u58cf46xuo2rif/hk-build-out.zip/file                                                                                 
-By Rinnegatamante: Human Ressource Machine: https://github.com/Rinnegatamante/hrm-vita                                                                                           
+By PatnosD: [Hellrider (Unsure if Finished](https://www.mediafire.com/file/g2y8tfj5vthmu95/Hellrider.vpk/file)                                                                                         
+By PatnosD: [HELP NO BRAKE](https://www.mediafire.com/file/70fwiwbfbpu3vv6/HELP_NO_BRAKE.vpk/file)                                                                                 
+By PatnosD: [Half-Life 2 Deathmatch ("Lost" & Unfinished)](https://www.mediafire.com/file/2g0pir6piuxp8k0/hl2_dm.vpk/file)                                                                    
+By PatnosD: [Hollow Knight](https://www.mediafire.com/file/5u58cf46xuo2rif/hk-build-out.zip/file)                                                                                 
+By Rinnegatamante: [Human Ressource Machine](https://github.com/Rinnegatamante/hrm-vita)                                                                                           
 
 -I-                                                                                                                                                                             
 
