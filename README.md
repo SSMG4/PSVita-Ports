@@ -1,4 +1,4 @@
-# PSVita-Ports-are-Awesome!
+# PSVita-Ports
 I put every PSVita games port i could find (Including abandonned ports, "lost ports" and other ports you've probably never heard before) here to make an awesome list for you to enjoy!                                                                                                                                                                        
 
 I can make mistakes sometimes so if you want to correct me, say it in the comment, ill correct                                                                                    
@@ -22,10 +22,10 @@ Starting now:
 -6-                                                                                                                                                                             
 
 -7-                                                                                                                                                                             
-By Rinnegatamante: (7 Billon Humans) [https://github.com/Rinnegatamante/seven-vita]                                                                                                 
+By Rinnegatamante: (7 Billon Humans)[https://github.com/Rinnegatamante/seven-vita]                                                                                                 
 
 -8-                                                                                                                                                                              
-By DanCooper: 8-Bit Bayonetta: https://www.mediafire.com/file/2nxa9cuussglyer/8BB.vpk/file                                                                                      
+By DanCooper: (8-Bit Bayonettahttps)[://www.mediafire.com/file/2nxa9cuussglyer/8BB.vpk/file]                                                                                      
 
 -9-                                                                                                                                                                             
 
