@@ -163,6 +163,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Return to Castle Wolfenstein](https://github.com/Rinnegatamante/vitaRTCW)                                                                                      
 
 ## -S-                                                                                                                                                                             
+- By Mode8fx: [SuDokuL](https://www.rinnegatamante.eu/vitadb/#/info/736)
 - By BurAndBy: [Slenderman Returns (Unsure if Finished)](https://github.com/BurAndBY/slendermanreturns_vita)                                                                                               
 - By Malone46: [SCP-087 B (Abandonned)](https://github.com/malone46/SCP087BVita)                                                                                                     
 - By PatnosD: [Subway Surfers (Unfinished)](https://www.mediafire.com/file/rmo3d9roeyye9pn/SubwaySurfers.vpk/file)                                                                                 
