@@ -45,6 +45,8 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Abuse](https://github.com/Rinnegatamante/abuse-vita)                                                                                                           
 
 ## -B-                                                                                                                                                                             
+- By CyberTokyo: [BubblePunk](https://www.rinnegatamante.eu/vitadb/#/info/1265)
+- By Lordchickenblaster: [BigBoyBoxing](https://www.rinnegatamante.eu/vitadb/#/info/1264)
 - By Malone46: [Bewilder House](https://github.com/malone46/BewilderHouseOpSource)
 - By Daexxx: [Balatro](https://www.rinnegatamante.eu/vitadb/#/info/1259)
 - By PatnosD: [Bendy And The Ink Machine (Unfinished)](https://www.mediafire.com/file/afbh7k1apsosnnz/BatimA03.vpk/file)
@@ -129,6 +131,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Not A Hero](https://github.com/Rinnegatamante/not_a_hero-vita)                                                                                                 
 
 ## -O-                                                                                                                                                                             
+- By Technicaljicama: [OpenRCT2](https://www.rinnegatamante.eu/vitadb/#/info/1269)
 - By Malone46: [OmniBus (Abandonned)](https://github.com/malone46/OmnibusVita)                                                                                                        
 
 ## -P-                                                                                                                                                                             
@@ -156,6 +159,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [(Vita)Quake Spasm](https://github.com/Rinnegatamante/quakespasm-nzp)                                                                                       
 
 ## -R-                                                                                                                                                                             
+- By Rinnegatamante: [Real Football 2011](https://www.rinnegatamante.eu/vitadb/#/info/1263)
 - By BurAndBy and DanCooper: [Raft (Abandonned)](https://github.com/BurAndBY/raft_vita)                                                                                               
 - By Rinnegatamante: [RVGL](https://github.com/Rinnegatamante/rvgl-vita-native)                                                                                                      
 - By Rinnegatamante: [RollerCoaster Tycoon Classic](https://github.com/Rinnegatamante/rct-vita)                                                                                       
@@ -163,6 +167,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Return to Castle Wolfenstein](https://github.com/Rinnegatamante/vitaRTCW)                                                                                      
 
 ## -S-                                                                                                                                                                             
+- By Malone46: [Slendrina Free](https://www.rinnegatamante.eu/vitadb/#/info/1266)
 - By Mode8fx: [SuDokuL](https://www.rinnegatamante.eu/vitadb/#/info/736)
 - By BurAndBy: [Slenderman Returns (Unsure if Finished)](https://github.com/BurAndBY/slendermanreturns_vita)                                                                                               
 - By Malone46: [SCP-087 B (Abandonned)](https://github.com/malone46/SCP087BVita)                                                                                                     
@@ -195,6 +200,8 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Malone46: [Vanish (Unsure if Finished)](https://github.com/malone46/VanishVita)                                                                                                                       
 
 ## -W-                                                                                                                                                                             
+- By Rinnegatamante: [Wolfenstein RPG](https://www.rinnegatamante.eu/vitadb/#/info/1268)
+- By Rinnegatamante: [Wipeout Rewrite](https://www.rinnegatamante.eu/vitadb/#/info/1116)
 - By Rinnegatamante: [World Of Goo](https://github.com/Rinnegatamante/goo_vita)                                                                                                      
 
 ## -X-                                                                                                                                                                             
