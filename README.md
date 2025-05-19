@@ -52,6 +52,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Beat Hazard 2](https://github.com/Rinnegatamante/hazard-vita)                                                                                                  
 
 ## -C-                                                                                                                                                                             
+- By Lordchickenblaster: [Crazy Cattle](https://www.rinnegatamante.eu/vitadb/#/info/1270)
 - By DanCooper: [CASE Animatronics ("Lost" & Unfinished)](https://www.mediafire.com/file/iz38y64elhcrma1/case-build-v7.vpk/file)                                                                   
 - By PatnosD: [Chameleon Run (Unsure if Finished)](https://www.mediafire.com/file/xn8o0qm1co59ha2/CNRN.vpk/file)                                                                                           
 - By PatnosD: Coffee Talk: [Free Unfinished Ver](https://www.mediafire.com/file/lnqu29gchhl165v/Coffee7.vpk/file)
