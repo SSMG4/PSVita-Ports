@@ -45,7 +45,10 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Abuse](https://github.com/Rinnegatamante/abuse-vita)                                                                                                           
 
 ## -B-                                                                                                                                                                             
-- By Malone46: [Bewilder House](https://github.com/malone46/BewilderHouseOpSource)                                                                                                   
+- By Malone46: [Bewilder House](https://github.com/malone46/BewilderHouseOpSource)
+
+- By Daexxx: [Balatro](https://www.rinnegatamante.eu/vitadb/#/info/1259)
+                                                                                                   
 - By PatnosD: [Bendy And The Ink Machine (Unfinished)](https://www.mediafire.com/file/afbh7k1apsosnnz/BatimA03.vpk/file)                                                                          
 - By Rinnegatamante: [Beat2x](https://github.com/Rinnegatamante/beat2x-vita)                                                                                                          
 - By Rinnegatamante: [Beat Hazard 2](https://github.com/Rinnegatamante/hazard-vita)                                                                                                  
