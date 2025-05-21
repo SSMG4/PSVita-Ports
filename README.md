@@ -45,6 +45,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Abuse](https://github.com/Rinnegatamante/abuse-vita)                                                                                                           
 
 ## -B-                                                                                                                                                                             
+- By MRKane: [Black Sails Curse of the Deep](https://www.rinnegatamante.eu/vitadb/#/info/1248)
 - By Ywnico: [Bugdom](https://www.rinnegatamante.eu/vitadb/#/info/841)
 - By Rinnegatamante: [Bugdom 2](https://www.rinnegatamante.eu/vitadb/#/info/1251)
 - By CyberTokyo: [BubblePunk](https://www.rinnegatamante.eu/vitadb/#/info/1265)
@@ -56,6 +57,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Beat Hazard 2](https://github.com/Rinnegatamante/hazard-vita)                                                                                                  
 
 ## -C-                                                                                                                                                                             
+- By MRKane: [Chasing Dawn](https://www.rinnegatamante.eu/vitadb/#/info/1250)
 - By Lordchickenblaster: [Crazy Cattle](https://www.rinnegatamante.eu/vitadb/#/info/1270)
 - By DanCooper: [CASE Animatronics ("Lost" & Unfinished)](https://www.mediafire.com/file/iz38y64elhcrma1/case-build-v7.vpk/file)                                                                   
 - By PatnosD: [Chameleon Run (Unsure if Finished)](https://www.mediafire.com/file/xn8o0qm1co59ha2/CNRN.vpk/file)                                                                                           
@@ -67,6 +69,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Castlevania Symphony of the Night](https://github.com/Rinnegatamante/sotn-vita)                                                                                
 
 ## -D-                                                                                                                                                                             
+By Rinnegatamante: [Doom II RPG](https://www.rinnegatamante.eu/vitadb/#/info/1247)
 - By DevilutionX Team: [DevilutionX (Diablo)](https://www.rinnegatamante.eu/vitadb/#/info/600)
 - By PatnosD: [Dome Romantik](https://www.mediafire.com/file/d92oiiy7d59p78s/Dome_Romantik.vpk/file)                                                                                 
 - By PatnosD: [Donut County (Unfinished & Broken)](https://www.mediafire.com/file/kq6drk1m00l0ljx/DonutCounty.vpk/file)                                                                           
@@ -97,6 +100,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Galcon 2 and BREAKFINITY](https://github.com/Rinnegatamante/hassey-collection)                                                                                 
 
 ## -H-                                                                                                                                                                             
+- By PatnosD: [Hollow Knight](https://www.rinnegatamante.eu/vitadb/#/info/1168)
 - By POtO Software: [How To Rob A Gas Station](https://www.rinnegatamante.eu/vitadb/#/info/839)
 - By PatnosD: [Hellrider (Unsure if Finished](https://www.mediafire.com/file/g2y8tfj5vthmu95/Hellrider.vpk/file)                                                                                         
 - By PatnosD: [HELP NO BRAKE](https://www.mediafire.com/file/70fwiwbfbpu3vv6/HELP_NO_BRAKE.vpk/file)                                                                                 
@@ -168,6 +172,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [(Vita)Quake Spasm](https://github.com/Rinnegatamante/quakespasm-nzp)                                                                                       
 
 ## -R-                                                                                                                                                                             
+- By MRKane: [Road of Mailhem](https://www.rinnegatamante.eu/vitadb/#/info/1249)
 - By Rinnegatamante: [Real Football 2011](https://www.rinnegatamante.eu/vitadb/#/info/1263)
 - By BurAndBy and DanCooper: [Raft (Abandonned)](https://github.com/BurAndBY/raft_vita)                                                                                               
 - By Rinnegatamante: [RVGL](https://github.com/Rinnegatamante/rvgl-vita-native)                                                                                                      
