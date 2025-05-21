@@ -45,6 +45,9 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Abuse](https://github.com/Rinnegatamante/abuse-vita)                                                                                                           
 
 ## -B-                                                                                                                                                                             
+- By gl00mm: [Blasphemous](https://www.rinnegatamante.eu/vitadb/#/info/1209)
+- By Kaon: [BreadToPIA](https://www.rinnegatamante.eu/vitadb/#/info/1225)
+By Rinnegatamante: [Billy Frontier](https://www.rinnegatamante.eu/vitadb/#/info/1001)
 - By MRKane: [Black Sails Curse of the Deep](https://www.rinnegatamante.eu/vitadb/#/info/1248)
 - By Ywnico: [Bugdom](https://www.rinnegatamante.eu/vitadb/#/info/841)
 - By Rinnegatamante: [Bugdom 2](https://www.rinnegatamante.eu/vitadb/#/info/1251)
@@ -57,6 +60,10 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Beat Hazard 2](https://github.com/Rinnegatamante/hazard-vita)                                                                                                  
 
 ## -C-                                                                                                                                                                             
+- By grimiku: [Cradle Song](https://www.rinnegatamante.eu/vitadb/#/info/1219)
+- By IRUZZ: [Cave Story](https://www.rinnegatamante.eu/vitadb/#/info/1203)
+- By MRKane: [Crossy Road Clone](https://www.rinnegatamante.eu/vitadb/#/info/1221)
+- By Rinnegatamante: [Cro-Mag Rally](https://www.rinnegatamante.eu/vitadb/#/info/872)
 - By Cello0314: [CSPSV](https://www.rinnegatamante.eu/vitadb/#/info/1243)
 - By MRKane: [Chasing Dawn](https://www.rinnegatamante.eu/vitadb/#/info/1250)
 - By Lordchickenblaster: [Crazy Cattle](https://www.rinnegatamante.eu/vitadb/#/info/1270)
@@ -64,12 +71,12 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By PatnosD: [Chameleon Run (Unsure if Finished)](https://www.mediafire.com/file/xn8o0qm1co59ha2/CNRN.vpk/file)                                                                                           
 - By PatnosD: Coffee Talk: [Free Unfinished Ver](https://www.mediafire.com/file/lnqu29gchhl165v/Coffee7.vpk/file)
  or [Full Paid Ver](https://github.com/PatnosDD/Coffee-Talk-PS-VITA)      
-- By DanCooper: [Cylinder](https://www.mediafire.com/file/sw9stibrs5yql6f/cylinder.vpk/file)                                                                                          
-- By Unknown: [Don't Open Your Eyes](https://www.mediafire.com/file/lntea0pa9c4ec4m/%2528Don%2527t%2529Open_Your_Eyes-1.0_PS_Vita_Port.zip/file)                                     
+- By DanCooper: [Cylinder](https://www.mediafire.com/file/sw9stibrs5yql6f/cylinder.vpk/file)                                                                                                                 
 - By PatnosD: [Cuphead (Paid)](https://github.com/PatnosDD/Cuphead-PS-VITA)                                                                                                           
 - By Rinnegatamante: [Castlevania Symphony of the Night](https://github.com/Rinnegatamante/sotn-vita)                                                                                
 
 ## -D-                                                                                                                                                                             
+- By Unknown: [Don't Open Your Eyes](https://www.mediafire.com/file/lntea0pa9c4ec4m/%2528Don%2527t%2529Open_Your_Eyes-1.0_PS_Vita_Port.zip/file)
 - By Rinnegatamante: [Dethrace](https://www.rinnegatamante.eu/vitadb/#/info/1244)
 - By Rinnegatamante: [Doom II RPG](https://www.rinnegatamante.eu/vitadb/#/info/1247)
 - By DevilutionX Team: [DevilutionX (Diablo)](https://www.rinnegatamante.eu/vitadb/#/info/600)
@@ -86,6 +93,10 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Eldritch Reanimated](https://github.com/Rinnegatamante/eldritch-vita)                                                                                           
 
 ## -F-                                                                                                                                                                             
+- By Northfear: [Fallout CE](https://www.rinnegatamante.eu/vitadb/#/info/1034)
+- By Northfear: [Fallout 2 CE](https://www.rinnegatamante.eu/vitadb/#/info/842)
+- By ywnico: [Flowit](https://www.rinnegatamante.eu/vitadb/#/info/771)
+- By Novi: [Florpix](https://www.rinnegatamante.eu/vitadb/#/info/1232)
 - By WeegeeDEV/Basdev: [FNAF Allstars (Unfinished)](https://www.mediafire.com/file/j7m0xuebufw6px7/Allstars_0.5.0_test.vpk/file)                                                                  
 - By Matt19220: [The FIFA Collection](https://www.mediafire.com/file/y8diktrhu0l6i7s/All_FIFA.txt/file)                                                                                   
 - By Rinnegatamante: [Final Fantasy Dimensions](https://github.com/Rinnegatamante/ffd-vita)                                                                                          
@@ -97,11 +108,14 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Funky Smugglers](https://github.com/Rinnegatamante/funky_vita)                                                                                                
 
 ## -G-                                                                                                                                                                             
+- By Sergorov: [Gnomopolis](https://www.rinnegatamante.eu/vitadb/#/info/1124)
 - By PatnosD: Golfing Over It: [Free Unfinished Ver](https://www.mediafire.com/file/gr7siyqv82pmr8i/GolfingOverIt1.vpk/file) or [Full Paid Ver](https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA)                                                                                                                                                                    
 - By Matt19220: [The GTA Collection](https://www.mediafire.com/file/ykd05o6idvnni2p/gta_data.txt/file)                                                                                   
 - By Rinnegatamante: [Galcon 2 and BREAKFINITY](https://github.com/Rinnegatamante/hassey-collection)                                                                                 
 
 ## -H-                                                                                                                                                                             
+- By Northfear: [HoMM II/fheroes2](https://www.rinnegatamante.eu/vitadb/#/info/354)
+- By VegettoSan: [Halo 2D](https://www.rinnegatamante.eu/vitadb/#/info/1095)
 - By POtO Software: [How To Rob A Gas Station](https://www.rinnegatamante.eu/vitadb/#/info/839)
 - By PatnosD: [Hellrider (Unsure if Finished](https://www.mediafire.com/file/g2y8tfj5vthmu95/Hellrider.vpk/file)                                                                                         
 - By PatnosD: [HELP NO BRAKE](https://www.mediafire.com/file/70fwiwbfbpu3vv6/HELP_NO_BRAKE.vpk/file)                                                                                 
@@ -110,13 +124,17 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Human Ressource Machine](https://github.com/Rinnegatamante/hrm-vita)                                                                                           
 
 ## -I-                                                                                                                                                                             
+- By c0rtax: [Idle Miner](https://www.rinnegatamante.eu/vitadb/#/info/1231)
 
 ## -J-                                                                                                                                                                             
+- By grimiku: [Juniper's Knot](https://www.rinnegatamante.eu/vitadb/#/info/1218)
 - By Kalekki: [Jump King](https://www.rinnegatamante.eu/vitadb/#/info/1256)
 - By Malone46: [Jazzpunk (Unreleased)](https://github.com/malone46/JazzpunkVita)                                                                                                                   
 - By Rinnegatamante: [Jet Car Stunts 2](https://github.com/Rinnegatamante/jetcarstunts_vita)                                                                                         
 
 ## -K-                                                                                                                                                                             
+- By avonder: [Katawa Shoujo](https://www.rinnegatamante.eu/vitadb/#/info/1086)
+- By avonder: [Katawa Crash](https://www.rinnegatamante.eu/vitadb/#/info/1087)
 - By PatnosD: [Kindergarden 2](https://www.mediafire.com/file/2ux2dfy7v9l0g10/Kindergarten2.vpk/file)                                                                                 
 - By PatnosD: [Kindergarden](https://www.mediafire.com/file/2f74b88j5manue8/KindergartenNEW.vpk/file)                                                                               
 - By PatnosD: [Kingdom New Land (Unsure if Finished)](https://www.mediafire.com/file/kt8aadaxm60te04/KingdomNewLands.vpk/file)                                                                           
@@ -124,11 +142,13 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By PatnosD: [Keep In Mind Remastered (Paid)](https://github.com/PatnosDD/Keep-In-Mind-Remastered-PS-VITA)                                                                           
 
 ## -L-                                                                                                                                                                             
+- By gm666q: [Lego Star Wars TCS](https://www.rinnegatamante.eu/vitadb/#/info/1233)
 - By SoyKhaler: [La Deuda](https://www.rinnegatamante.eu/vitadb/#/info/1252)
 - By Rinnegatamante: [Let's Golf 2](https://www.rinnegatamante.eu/vitadb/#/info/1257)
 - By PatnosD: [Long Spear (Unsure if Finished)](https://www.mediafire.com/file/73zh05omz24g24v/LongSpear.vpk/file)                                                                                       
 
 ## -M-                                                                                                                                                                             
+- By gl33ntwine: [Modern Combat 3](https://www.rinnegatamante.eu/vitadb/#/info/1186)
 - By Rinnegatamante: [Mighty Mike](https://www.rinnegatamante.eu/vitadb/#/info/1254)
 - By BurAndBy: [Murder In Venise (Unsure if Finished)](https://www.mediafire.com/file/92yblt07dwr4vtr/bksiyb.vpk/file)                                                                                   
 - By Unknown: [Mario Maker](https://www.mediafire.com/file/o975ibupy2yq4sf/MAKERTROD.vpk/file)                                                                                      
@@ -139,6 +159,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By v-atamanenko: [Modern Combat 3](https://github.com/v-atamanenko/mc3-vita)                                                                                                       
 
 ## -N-                                                                                                                                                                             
+- By raidengugga: [Neet Girl Date Night](https://www.rinnegatamante.eu/vitadb/#/info/1228)
 - By Rinnegatamante: [Nanosaur 2](https://www.rinnegatamante.eu/vitadb/#/info/1241)
 - By PatnosD: Night In The Woods: [Free Unfinished Ver](https://www.mediafire.com/file/1wjkmqyygbgpitc/NightInTheWoods121.vpk/file) or [Full Paid Ver](https://github.com/PatnosDD/Night-In-The-Woods-PS-VITA)                                                                                                                                                                   
 - By DanCooper: [Night of the Consumers ("Lost" And Abandonned)](https://www.mediafire.com/file/2x78khkcrnofhr0/notc-build-21.12.2022.vpk/file)                                       
@@ -151,6 +172,8 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Malone46: [OmniBus (Abandonned)](https://github.com/malone46/OmnibusVita)                                                                                                        
 
 ## -P-                                                                                                                                                                             
+- By Rinnegatamante: [Pang Adventures](https://www.rinnegatamante.eu/vitadb/#/info/1236)
+- By Balder: [Purified Breach](https://www.rinnegatamante.eu/vitadb/#/info/1140)
 - By Rinnegatamante: [Pickleball Pro](https://github.com/Rinnegatamante/pickleball_vita)                                                                                              
 - By BurAndBy: [Portal Still Alive/Rewrite (Abandonned)](https://github.com/BurAndBY/PortalRewrite)                                                                                   
 - By Malone46: [PlugAndPlay (Unsure if Finished)](https://github.com/malone46/Plug-PlayVita)                                                                                                               
@@ -184,6 +207,10 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Return to Castle Wolfenstein](https://github.com/Rinnegatamante/vitaRTCW)                                                                                      
 
 ## -S-                                                                                                                                                                             
+- By Rinnegatamante: [Super Mario World](https://www.rinnegatamante.eu/vitadb/#/info/1215)
+- By NathanKewley: [Save The Bees](https://www.rinnegatamante.eu/vitadb/#/info/1230)
+- By bayashi: [SONIC VITA](https://www.rinnegatamante.eu/vitadb/#/info/1229)
+- By Malone46: [Slendrina 2D](](https://www.rinnegatamante.eu/vitadb/#/info/1237)
 - By UnrealDude06: [Sonic Unleashed](https://www.rinnegatamante.eu/vitadb/#/info/1212)
 - By AnasHalideen: [SF1MR](https://www.rinnegatamante.eu/vitadb/#/info/1245)
 - By Rinnegatamante: [Splinter Cell Conviction](https://www.rinnegatamante.eu/vitadb/#/info/1261)
@@ -204,6 +231,9 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By v-atamanenko: [Sonic 3 A.I.R](https://github.com/v-atamanenko/sonic3air)                                                                                                        
 
 ## -T-                                                                                                                                                                             
+- By MEGAgameboy: [Tinycraft](https://www.rinnegatamante.eu/vitadb/#/info/1146)
+- By goodafternoon: [Tamatool](https://www.rinnegatamante.eu/vitadb/#/info/1222)
+- By Thatoneham: [Tiny Crate](https://www.rinnegatamante.eu/vitadb/#/info/1235)
 - By DanCooper: The Stanley Parable ("Lost" and Abandonned): [Very Early Build](https://www.mediafire.com/file/02w0915hrtdzdaj/SP_004.vpk/file) or [Half-Life Mod](https://www.mediafire.com/file/0isnjqt8x5uqx46/stanleyalpha.vpk/file)
 - By Paskel: [The Pinkman Files](https://www.rinnegatamante.eu/vitadb/#/info/1271)                                                                                                              
 - By SnesFX: [Temple Run (Unsure if Finished)](https://www.mediafire.com/file/vhbvxkj88qu8ic5/Temple.Run.Vita.patch.2.vpk/file)                                                                         
@@ -220,9 +250,10 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By PatnosD: [Untitled Goose Game (Paid & Abandoned)](https://github.com/PatnosDD/Untitled-Goose-Game-PS-VITA)                                                                       
 
 ## -V-                                                                                                                                                                             
-- By Malone46: [Vanish (Unsure if Finished)](https://github.com/malone46/VanishVita)                                                                                                                       
+- By Malone46: [Vanish (Beta)](https://github.com/malone46/VanishVita)                                                                                                                       
 
 ## -W-                                                                                                                                                                             
+- By avonder: [Will You Snail](https://www.rinnegatamante.eu/vitadb/#/info/1216)
 - By Rinnegatamante: [Wolfenstein RPG](https://www.rinnegatamante.eu/vitadb/#/info/1268)
 - By Rinnegatamante: [Wipeout Rewrite](https://www.rinnegatamante.eu/vitadb/#/info/1116)
 - By Rinnegatamante: [World Of Goo](https://github.com/Rinnegatamante/goo_vita)                                                                                                      
@@ -232,6 +263,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 ## -Y-                                                                                                                                                                             
 
 ## -Z-
+- By Rinnegatamante: [(The Legend of) Zelda 3](https://www.rinnegatamante.eu/vitadb/#/info/993)
 - By Rinnegatamante: [Zik-Zak](https://github.com/Rinnegatamante/zikzak-vita)                                                                                                        
 
 ## Other ports:                                                                                                                                                                      
