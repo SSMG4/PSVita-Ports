@@ -47,7 +47,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 ## -B-                                                                                                                                                                             
 - By gl00mm: [Blasphemous](https://www.rinnegatamante.eu/vitadb/#/info/1209)
 - By Kaon: [BreadToPIA](https://www.rinnegatamante.eu/vitadb/#/info/1225)
-By Rinnegatamante: [Billy Frontier](https://www.rinnegatamante.eu/vitadb/#/info/1001)
+- By Rinnegatamante: [Billy Frontier](https://www.rinnegatamante.eu/vitadb/#/info/1001)
 - By MRKane: [Black Sails Curse of the Deep](https://www.rinnegatamante.eu/vitadb/#/info/1248)
 - By Ywnico: [Bugdom](https://www.rinnegatamante.eu/vitadb/#/info/841)
 - By Rinnegatamante: [Bugdom 2](https://www.rinnegatamante.eu/vitadb/#/info/1251)
