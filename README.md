@@ -102,7 +102,6 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Galcon 2 and BREAKFINITY](https://github.com/Rinnegatamante/hassey-collection)                                                                                 
 
 ## -H-                                                                                                                                                                             
-- By PatnosD: [Hollow Knight](https://www.rinnegatamante.eu/vitadb/#/info/1168)
 - By POtO Software: [How To Rob A Gas Station](https://www.rinnegatamante.eu/vitadb/#/info/839)
 - By PatnosD: [Hellrider (Unsure if Finished](https://www.mediafire.com/file/g2y8tfj5vthmu95/Hellrider.vpk/file)                                                                                         
 - By PatnosD: [HELP NO BRAKE](https://www.mediafire.com/file/70fwiwbfbpu3vv6/HELP_NO_BRAKE.vpk/file)                                                                                 
