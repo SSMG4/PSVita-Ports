@@ -69,7 +69,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Castlevania Symphony of the Night](https://github.com/Rinnegatamante/sotn-vita)                                                                                
 
 ## -D-                                                                                                                                                                             
-By Rinnegatamante: [Doom II RPG](https://www.rinnegatamante.eu/vitadb/#/info/1247)
+- By Rinnegatamante: [Doom II RPG](https://www.rinnegatamante.eu/vitadb/#/info/1247)
 - By DevilutionX Team: [DevilutionX (Diablo)](https://www.rinnegatamante.eu/vitadb/#/info/600)
 - By PatnosD: [Dome Romantik](https://www.mediafire.com/file/d92oiiy7d59p78s/Dome_Romantik.vpk/file)                                                                                 
 - By PatnosD: [Donut County (Unfinished & Broken)](https://www.mediafire.com/file/kq6drk1m00l0ljx/DonutCounty.vpk/file)                                                                           
