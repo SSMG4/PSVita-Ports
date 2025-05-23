@@ -231,7 +231,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By v-atamanenko: [Sonic 3 A.I.R](https://github.com/v-atamanenko/sonic3air)                                                                                                        
 
 ## -T-                                                                                                                                                                             
-- By Rocroverss:[The Legend of Lumina](https://www.rinnegatamante.eu/vitadb/#/info/1272)
+- By Rocroverss: [The Legend of Lumina](https://www.rinnegatamante.eu/vitadb/#/info/1272)
 - By MEGAgameboy: [Tinycraft](https://www.rinnegatamante.eu/vitadb/#/info/1146)
 - By goodafternoon: [Tamatool](https://www.rinnegatamante.eu/vitadb/#/info/1222)
 - By Thatoneham: [Tiny Crate](https://www.rinnegatamante.eu/vitadb/#/info/1235)
