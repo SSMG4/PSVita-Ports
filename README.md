@@ -31,6 +31,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 ## -9-                                                                                                                                                                             
 
 ## -A-                                                                                                                                                                             
+- By cojam: [Ancient Villa](https://www.rinnegatamante.eu/vitadb/#/info/1213)
 - By Malone46: [An Apparently Normal Room (Unfinished)](https://github.com/malone46/AnApparentlyNormalRoom)                                                                                       
 - By PatnosD: [Absolute Drift](https://www.mediafire.com/file/3pzom78053h9vdk/AbsoluteDrift1.1.vpk/file)                                                                              
 - By PatnosD: [ADOFAI (Unfinished)](https://www.mediafire.com/file/z2kncwipsranwfo/ADOFAI.vpk/file)                                                                                               
@@ -60,6 +61,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Beat Hazard 2](https://github.com/Rinnegatamante/hazard-vita)                                                                                                  
 
 ## -C-                                                                                                                                                                             
+- By Sungrand Studios: [Clasherball](https://www.rinnegatamante.eu/vitadb/#/info/1214)
 - By grimiku: [Cradle Song](https://www.rinnegatamante.eu/vitadb/#/info/1219)
 - By IRUZZ: [Cave Story](https://www.rinnegatamante.eu/vitadb/#/info/1203)
 - By MRKane: [Crossy Road Clone](https://www.rinnegatamante.eu/vitadb/#/info/1221)
@@ -207,6 +209,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By Rinnegatamante: [Return to Castle Wolfenstein](https://github.com/Rinnegatamante/vitaRTCW)                                                                                      
 
 ## -S-                                                                                                                                                                             
+- By MEGAgameBoy: [Stratagem Hero](https://www.rinnegatamante.eu/vitadb/#/info/1205)
 - By Rinnegatamante: [Super Mario World](https://www.rinnegatamante.eu/vitadb/#/info/1215)
 - By NathanKewley: [Save The Bees](https://www.rinnegatamante.eu/vitadb/#/info/1230)
 - By bayashi: [SONIC VITA](https://www.rinnegatamante.eu/vitadb/#/info/1229)
@@ -231,6 +234,7 @@ This Repository aims to put every PSVita game port (Including Abandonned Ports, 
 - By v-atamanenko: [Sonic 3 A.I.R](https://github.com/v-atamanenko/sonic3air)                                                                                                        
 
 ## -T-                                                                                                                                                                             
+- By Mode8fx: [Trogdor](https://www.rinnegatamante.eu/vitadb/#/info/1015)
 - By Rocroverss: [The Legend of Lumina](https://www.rinnegatamante.eu/vitadb/#/info/1272)
 - By MEGAgameboy: [Tinycraft](https://www.rinnegatamante.eu/vitadb/#/info/1146)
 - By goodafternoon: [Tamatool](https://www.rinnegatamante.eu/vitadb/#/info/1222)
