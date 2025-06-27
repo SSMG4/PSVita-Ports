@@ -1,4 +1,9 @@
 # PSVita Ports
+
+EDIT: This project is currently on pause and will later in the year be converted to a website, thanks for your patience!
+
+Current Update: 2025.06.27
+
 This Repository aims to put every PSVita game port (Including Abandonned Ports, "Lost Ports" and other Ports you've probably never heard of) into an awesome list for you to enjoy!                                                                                                                                                                        
 
 - I can make mistakes sometimes so if you want to correct me, make an issue, ill correct it                                                                                   
