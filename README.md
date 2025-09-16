@@ -115,6 +115,7 @@ Now, onto the board:
 | [Age Of War](https://www.mediafire.com/file/bifq9f3fpfthfcv/aowv1.vpk/file)                                                            | mrdivdiz                   | :x:                              | Unlicensed         | Inactive             | No Description.       | Archived Port                               |
 | [An Apparently Normal Room](https://github.com/malone46/AnApparentlyNormalRoom)                                                            | malone46                   | :x:                              | Unlicensed         | Inactive             | An Apparently Normal Room for Playstation Vita.       | Unfinished Port                               |
 | [Ancient Villa](https://www.rinnegatamante.eu/vitadb/#/info/1213)                                                            | cojam                   | :x:                              | Unlicensed         | Inactive             | A famous archaeologist and her penguin companion went to a medieval castle-villa to inspect it in all details. Three months have already passed yet we have not received any news from her. Will she return with new discoveries?      | Port                               |
+| [AvP Gold](https://github.com/Rinnegatamante/AvP-Gold-Vita)                                                            | Rinnegatamante (Anywhere)                   | :heavy_check_mark:                              | &copy; 1999-2000 Rebellion         | Inactive             | Alien vs Predator Gold port for PSVITA.      | Port                               |
 
 ### -B-
 
