@@ -93,7 +93,7 @@ Now, onto the board:
 
 | Port                                                            | Author                   | OSS                | License          | Status             | Description      | Tag                                |
 | --------------------------------------------------------------- | ------------------------ | ------------------ | ---------------- | ------------------ | ---------------- | ---------------------------------- |
-| [7 Billon Humans](https://github.com/Rinnegatamante/seven-vita)                                                            | Rinnegatamante (Anywhere)                   | :heavy_check_mark:               | Unlicensed         |              | Inactive      | Port                               |
+| [7 Billon Humans](https://github.com/Rinnegatamante/seven-vita)                                                            | Rinnegatamante (Anywhere)                   | :heavy_check_mark:               | Unlicensed         | Inactive             | Port of 7 Billion Humans for PSVITA.       | Port                               |
 
 ### -8-
 
