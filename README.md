@@ -110,6 +110,7 @@ Now, onto the board:
 
 | Port                                                            | Author                   | OSS                | License          | Status             | Description                     | Tag                                |
 | --------------------------------------------------------------- | ------------------------ | ------------------ | ---------------- | ------------------ | ------------------------------- | ---------------------------------- |
+| [An Apparently Normal Room](https://github.com/malone46/AnApparentlyNormalRoom)                                                            | malone46                   | :x:                              | Unlicensed         | Inactive             | An Apparently Normal Room for Playstation Vita.       | Unfinished Port                               |
 | [Ancient Villa](https://www.rinnegatamante.eu/vitadb/#/info/1213)                                                            | cojam                   | :x:                              | Unlicensed         | Inactive             | A famous archaeologist and her penguin companion went to a medieval castle-villa to inspect it in all details. Three months have already passed yet we have not received any news from her. Will she return with new discoveries?      | Port                               |
 
 ### -B-
