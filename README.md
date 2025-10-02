@@ -1,6 +1,6 @@
 # PSVita Ports
 
-EDIT2: In the end I've decided to keep this a README but upgrade the format to a board
+EDIT2: In the end I've decided to keep this a README but upgrade the format to a board ("complete enough" version to me, all though there might need some tweaking because ive finished it pretty fast)
 
 Current Update: 2025.10.02
 
