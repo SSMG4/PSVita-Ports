@@ -2,7 +2,7 @@
 
 EDIT2: In the end I've decided to keep this a README but upgrade the format to a board ("complete enough" version to me, all though there might need some tweaking because ive finished it pretty fast)
 
-Current Update: 2025.10.02
+Current Update: 2026.01.10
 
 This Repository aims to put every PSVita game port (Including Abandonned Ports, "Lost Ports" and other Ports you've probably never heard of) into an awesome list for you to enjoy!
 
@@ -111,30 +111,31 @@ Now, onto the board:
 
 | Port | Author | OSS | License | Status | Description | Tag |
 |------|--------|-----|---------|--------|-------------|-----|
-| [Abuse](https://github.com/Rinnegatamante/abuse-vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Abuse for PSVITA. | Port |
+| [Abuse](https://github.com/Rinnegatamante/abuse-vita) | Rinnegatamante | :heavy_check_mark: | GPL-2.0 / WTFPL | Inactive | Port of Abuse for PSVITA. | Port |
 | [Aerofoil](https://github.com/Rinnegatamante/Aerofoil-Vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Aerofoil for PSVITA. | Port |
+| [Alisa](https://www.rinnegatamante.eu/vitadb/#/info/1355) | Rinnegatamante | :x: | Unlicensed | Active | Port of Alisa: Developer's Cut for PSVITA. | Port |
 | [Angry Neighbor (Unfinished)](https://github.com/SpanishFreddy/Angry-Neighbor-PSVita) | SpanishFreddy | :heavy_check_mark: | Unlicensed | Unfinished | Unfinished port of Angry Neighbor. | Unfinished Port |
-| [Anomaly 2](https://github.com/Rinnegatamante/anomaly2_vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Anomaly 2 for PSVITA. | Port |
-| [Anomaly Defenders](https://github.com/Rinnegatamante/anomaly-defenders_vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Anomaly Defenders for PSVITA. | Port |
-| [Anomaly Korea](https://github.com/Rinnegatamante/anomaly-korea_vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Anomaly Korea for PSVITA. | Port |
-| [Anomaly Warzone Earth HD](https://github.com/Rinnegatamante/anomaly-we_vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Anomaly Warzone Earth HD for PSVITA. | Port |
+| [Anomaly 2](https://github.com/Rinnegatamante/anomaly2_vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Anomaly 2 for PSVITA. | Port |
+| [Anomaly Defenders](https://github.com/Rinnegatamante/anomaly-defenders_vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Anomaly Defenders for PSVITA. | Port |
+| [Anomaly Korea](https://github.com/Rinnegatamante/anomaly-korea_vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Anomaly Korea for PSVITA. | Port |
+| [Anomaly Warzone Earth HD](https://github.com/Rinnegatamante/anomaly-we_vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Anomaly Warzone Earth HD for PSVITA. | Port |
 
 ### -B-
 
 | Port | Author | OSS | License | Status | Description | Tag |
 |------|--------|-----|---------|--------|-------------|-----|
-| [Balatro](https://www.rinnegatamante.eu/vitadb/#/info/1259) | Daexxx | :x: | Unlicensed | Inactive | Port of Balatro for PSVITA. | Port |
+| [Balatro](https://www.rinnegatamante.eu/vitadb/#/info/1259) | Daexxx | :heavy_minus_sign: | Unlicensed | Inactive | Port of Balatro for PSVITA. | Port |
 | [Beat Hazard 2](https://github.com/Rinnegatamante/hazard-vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Beat Hazard 2 for PSVITA. | Port |
 | [Beat2x](https://github.com/Rinnegatamante/beat2x-vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Beat2x for PSVITA. | Port |
 | [Bewilder House](https://github.com/malone46/BewilderHouseOpSource) | Malone46 | :x: | [Custom License](https://github.com/malone46/BewilderHouseOpSource?tab=License-1-ov-file) | Inactive | Bewilder House for PSVITA. | Port |
 | [BigBoyBoxing](https://www.rinnegatamante.eu/vitadb/#/info/1264) | Lordchickenblaster | :x: | Unlicensed | Inactive | Port of BigBoyBoxing for PSVITA. | Port |
-| [Billy Frontier](https://www.rinnegatamante.eu/vitadb/#/info/1001) | Rinnegatamante | :x: | Unlicensed | Inactive | Port of Billy Frontier for PSVITA. | Port |
+| [Billy Frontier](https://www.rinnegatamante.eu/vitadb/#/info/1001) | Rinnegatamante | :heavy_check_mark: | CC-BY-NC-SA-4.0 | Inactive | Port of Billy Frontier for PSVITA. | Port |
 | [Black Sails Curse of the Deep](https://www.rinnegatamante.eu/vitadb/#/info/1248) | MRKane | :x: | Unlicensed | Inactive | Port of Black Sails Curse of the Deep for PSVITA. | Port |
 | [Blasphemous](https://www.rinnegatamante.eu/vitadb/#/info/1209) | gl00mm | :x: | Unlicensed | Inactive | Port of Blasphemous for PSVITA. | Port |
 | [BreadToPIA](https://www.rinnegatamante.eu/vitadb/#/info/1225) | Kaon | :x: | Unlicensed | Inactive | Port of BreadToPIA for PSVITA. | Port |
 | [BubblePunk](https://www.rinnegatamante.eu/vitadb/#/info/1265) | CyberTokyo | :x: | Unlicensed | Inactive | Port of BubblePunk for PSVITA. | Port |
-| [Bugdom](https://www.rinnegatamante.eu/vitadb/#/info/841) | Ywnico | :x: | Unlicensed | Inactive | Port of Bugdom for PSVITA. | Port |
-| [Bugdom 2](https://www.rinnegatamante.eu/vitadb/#/info/1251) | Rinnegatamante | :x: | Unlicensed | Inactive | Port of Bugdom 2 for PSVITA. | Port |
+| [Bugdom](https://www.rinnegatamante.eu/vitadb/#/info/841) | Ywnico | :heavy_check_mark: | CC-BY-NC-SA-4.0 | Inactive | Port of Bugdom for PSVITA. | Port |
+| [Bugdom 2](https://www.rinnegatamante.eu/vitadb/#/info/1251) | Rinnegatamante | :heavy_check_mark: | CC-BY-NC-SA-4.0 | Inactive | Port of Bugdom 2 for PSVITA. | Port |
 | [Bendy And The Ink Machine (Unfinished)](https://www.mediafire.com/file/afbh7k1apsosnnz/BatimA03.vpk/file) | PatnosD | :x: | Unlicensed | Unfinished | Unfinished port of Bendy And The Ink Machine. | Unfinished Port |
 
 ### -C-
@@ -147,12 +148,12 @@ Now, onto the board:
 | [Chameleon Run (Unsure if Finished)](https://www.mediafire.com/file/xn8o0qm1co59ha2/CNRN.vpk/file) | PatnosD | :x: | Unlicensed | Unfinished | Unsure if finished port of Chameleon Run. | Unfinished Port |
 | [Chasing Dawn](https://www.rinnegatamante.eu/vitadb/#/info/1250) | MRKane | :x: | Unlicensed | Inactive | Port of Chasing Dawn for PSVITA. | Port |
 | [Clasherball](https://www.rinnegatamante.eu/vitadb/#/info/1214) | Sungrand Studios | :x: | Unlicensed | Inactive | Port of Clasherball for PSVITA. | Port |
-| Coffee Talk: [Free Unfinished Ver](https://www.mediafire.com/file/lnqu29gchhl165v/Coffee7.vpk/file) or [Full Paid Ver](https://github.com/PatnosDD/Coffee-Talk-PS-VITA) | PatnosD | :heavy_check_mark: | Unlicensed | Unfinished/Paid | Coffee Talk for PSVITA. | Unfinished Port / Paid Port |
-| [Crazy Cattle](https://www.rinnegatamante.eu/vitadb/#/info/1270) | Lordchickenblaster | :x: | Unlicensed | Inactive | Port of Crazy Cattle for PSVITA. | Port |
-| [Cro-Mag Rally](https://www.rinnegatamante.eu/vitadb/#/info/872) | Rinnegatamante | :x: | Unlicensed | Inactive | Port of Cro-Mag Rally for PSVITA. | Port |
+| Coffee Talk: [Free Unfinished Ver](https://www.mediafire.com/file/lnqu29gchhl165v/Coffee7.vpk/file) or [Full Paid Ver](https://github.com/PatnosDD/Coffee-Talk-PS-VITA) | PatnosD | :heavy_minus_sign: | Unlicensed | Unfinished/Paid | Coffee Talk for PSVITA. | Unfinished Port / Paid Port |
+| [Crazy Cattle](https://www.rinnegatamante.eu/vitadb/#/info/1270) | Lordchickenblaster | :heavy_minus_sign: | Unlicensed | Inactive | Port of Crazy Cattle for PSVITA. | Port |
+| [Cro-Mag Rally](https://www.rinnegatamante.eu/vitadb/#/info/872) | Rinnegatamante | :heavy_check_mark: | CC-BY-NC-SA-4.0 | Inactive | Port of Cro-Mag Rally for PSVITA. | Port |
 | [Cradle Song](https://www.rinnegatamante.eu/vitadb/#/info/1219) | grimiku | :x: | Unlicensed | Inactive | Port of Cradle Song for PSVITA. | Port |
 | [Crossy Road Clone](https://www.rinnegatamante.eu/vitadb/#/info/1221) | MRKane | :x: | Unlicensed | Inactive | Port of Crossy Road Clone for PSVITA. | Port |
-| [CSPSV](https://www.rinnegatamante.eu/vitadb/#/info/1243) | Cello0314 | :x: | Unlicensed | Inactive | Port of CSPSV for PSVITA. | Port |
+| [CSPSV](https://www.rinnegatamante.eu/vitadb/#/info/1243) | Cello0314 | :heavy_check_mark: | Unlicensed | Inactive | Port of CSPSV for PSVITA. | Port |
 | [Cuphead (Paid)](https://github.com/PatnosDD/Cuphead-PS-VITA) | PatnosD | :heavy_check_mark: | Unlicensed | Paid | Paid port of Cuphead for PSVITA. | Paid Port |
 | [Cylinder](https://www.mediafire.com/file/sw9stibrs5yql6f/cylinder.vpk/file) | DanCooper | :x: | Unlicensed | Inactive | Port of Cylinder for PSVITA. | Port |
 
@@ -161,14 +162,14 @@ Now, onto the board:
 | Port | Author | OSS | License | Status | Description | Tag |
 |------|--------|-----|---------|--------|-------------|-----|
 | [Death Road to Canada](https://github.com/Rinnegatamante/Death-Road-to-Canada-Lite) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Death Road to Canada for PSVITA. | Port |
-| [Desert Golfing](https://github.com/Rinnegatamante/desertgolfing_vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Desert Golfing for PSVITA. | Port |
-| [Dethrace](https://www.rinnegatamante.eu/vitadb/#/info/1244) | Rinnegatamante | :x: | Unlicensed | Inactive | Port of Dethrace for PSVITA. | Port |
-| [DevilutionX (Diablo)](https://www.rinnegatamante.eu/vitadb/#/info/600) | DevilutionX Team | :x: | Unlicensed | Inactive | Port of Diablo for PSVITA. | Port |
+| [Desert Golfing](https://github.com/Rinnegatamante/desertgolfing_vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Desert Golfing for PSVITA. | Port |
+| [Dethrace](https://www.rinnegatamante.eu/vitadb/#/info/1244) | Rinnegatamante | :heavy_check_mark: | GPL-3.0 | Inactive | Port of Dethrace for PSVITA. | Port |
+| [DevilutionX (Diablo)](https://www.rinnegatamante.eu/vitadb/#/info/600) | DevilutionX Team | :heavy_check_mark: | [Custom License](https://github.com/diasurgical/DevilutionX/blob/master/LICENSE.md) | Active | Port of Diablo for PSVITA. | Port |
 | [Dome Romantik](https://www.mediafire.com/file/d92oiiy7d59p78s/Dome_Romantik.vpk/file) | PatnosD | :x: | Unlicensed | Inactive | Port of Dome Romantik for PSVITA. | Port |
 | [Donut County (Unfinished & Broken)](https://www.mediafire.com/file/kq6drk1m00l0ljx/DonutCounty.vpk/file) | PatnosD | :x: | Unlicensed | Unfinished | Unfinished and broken port of Donut County. | Unfinished Port |
 | [Don't Open Your Eyes](https://www.mediafire.com/file/lntea0pa9c4ec4m/%2528Don%2527t%2529Open_Your_Eyes-1.0_PS_Vita_Port.zip/file) | Unknown | :x: | Unlicensed | Inactive | Port of Don't Open Your Eyes for PSVITA. | Port |
-| [Doom 3](https://github.com/Rinnegatamante/d3es-vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Doom 3 for PSVITA. | Port |
-| [Doom II RPG](https://www.rinnegatamante.eu/vitadb/#/info/1247) | Rinnegatamante | :x: | Unlicensed | Inactive | Port of Doom II RPG for PSVITA. | Port |
+| [Doom 3](https://github.com/Rinnegatamante/d3es-vita) | Rinnegatamante | :heavy_check_mark: | GPL-3.0 | Inactive | Port of Doom 3 for PSVITA. | Port |
+| [Doom II RPG](https://www.rinnegatamante.eu/vitadb/#/info/1247) | Rinnegatamante | :heavy_check_mark: | GPL-3.0 | Inactive | Port of Doom II RPG for PSVITA. | Port |
 | [Dr Fink's Robot Lab](https://github.com/Rinnegatamante/fink_vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Dr Fink's Robot Lab for PSVITA. | Port |
 | [DriftR (Unsure if Finished)](https://www.mediafire.com/file/sv33h0kvxtke5gk/DriftR.vpk/file) | PatnosD | :x: | Unlicensed | Unfinished | Port of DriftR for PSVITA. | Unfinished Port |
 
@@ -176,8 +177,8 @@ Now, onto the board:
 
 | Port | Author | OSS | License | Status | Description | Tag |
 |------|--------|-----|---------|--------|-------------|-----|
-| [Eldritch Reanimated](https://github.com/Rinnegatamante/eldritch-vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Eldritch Reanimated for PSVITA. | Port |
-| [EnbornX](https://github.com/Rinnegatamante/enbornx_vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of EnbornX for PSVITA. | Port |
+| [Eldritch Reanimated](https://github.com/Rinnegatamante/eldritch-vita) | Rinnegatamante | :heavy_check_mark: | zlib / [Custom License](https://github.com/Rinnegatamante/eldritch-vita/blob/master/license.txt) | Inactive | Port of Eldritch Reanimated for PSVITA. | Port |
+| [EnbornX](https://github.com/Rinnegatamante/enbornx_vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of EnbornX for PSVITA. | Port |
 
 ### -F-
 
