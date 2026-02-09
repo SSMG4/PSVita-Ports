@@ -184,18 +184,18 @@ Now, onto the board:
 
 | Port | Author | OSS | License | Status | Description | Tag |
 |------|--------|-----|---------|--------|-------------|-----|
-| [Fahrenheit Indigo Prophecy](https://github.com/Rinnegatamante/fahrenheit-vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Fahrenheit Indigo Prophecy for PSVITA. | Port |
-| [Fallout 2 CE](https://www.rinnegatamante.eu/vitadb/#/info/842) | Northfear | :x: | Unlicensed | Inactive | Port of Fallout 2 CE for PSVITA. | Port |
-| [Fallout CE](https://www.rinnegatamante.eu/vitadb/#/info/1034) | Northfear | :x: | Unlicensed | Inactive | Port of Fallout CE for PSVITA. | Port |
-| [Final Fantasy 4](https://github.com/Rinnegatamante/ff4_vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Final Fantasy 4 for PSVITA. | Port |
-| [Final Fantasy 4: After Years](https://github.com/Rinnegatamante/ff4a_vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Final Fantasy 4: After Years for PSVITA. | Port |
-| [Final Fantasy Dimensions](https://github.com/Rinnegatamante/ffd-vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Final Fantasy Dimensions for PSVITA. | Port |
-| [Flowit](https://www.rinnegatamante.eu/vitadb/#/info/771) | ywnico | :x: | Unlicensed | Inactive | Port of Flowit for PSVITA. | Port |
-| [FNAF Allstars (Unfinished)](https://www.mediafire.com/file/j7m0xuebufw6px7/Allstars_0.5.0_test.vpk/file) | WeegeeDEV/Basdev | :x: | Unlicensed | Unfinished | Unfinished port of FNAF Allstars. | Unfinished Port |
+| [Fahrenheit Indigo Prophecy](https://github.com/Rinnegatamante/fahrenheit-vita) | Rinnegatamante | :heavy_check_mark: | GPL-3.0 | Inactive | Port of Fahrenheit Indigo Prophecy for PSVITA. | Port |
+| [Fallout 2 CE](https://www.rinnegatamante.eu/vitadb/#/info/842) | Northfear | :heavy_check_mark: | [Custom License](https://github.com/Northfear/fallout2-ce-vita/blob/main/LICENSE.md) | Inactive | Port of Fallout 2 CE for PSVITA. | Port |
+| [Fallout CE](https://www.rinnegatamante.eu/vitadb/#/info/1034) | Northfear | :heavy_check_mark: | [Custom License](https://github.com/Northfear/fallout2-ce-vita/blob/main/LICENSE.md) | Inactive | Port of Fallout CE for PSVITA. | Port |
+| [Final Fantasy 4](https://github.com/Rinnegatamante/ff4_vita) | Rinnegatamante | :heavy_check_mark: | MIT / OFL-1.1 | Inactive | Port of Final Fantasy 4 for PSVITA. | Port |
+| [Final Fantasy 4: After Years](https://github.com/Rinnegatamante/ff4a_vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Final Fantasy 4: After Years for PSVITA. | Port |
+| [Final Fantasy Dimensions](https://github.com/Rinnegatamante/ffd-vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Final Fantasy Dimensions for PSVITA. | Port |
+| [Flowit](https://www.rinnegatamante.eu/vitadb/#/info/771) | ywnico | :heavy_check_mark: | GPL-3.0 | Inactive | Port of Flowit for PSVITA. | Port |
+| [FNAF Allstars](https://github.com/WeegeeDEVELOPER/FNaF-Allstars-PSVita) | WeegeeDEV/Basdev | :heavy_check_mark: | Unlicensed | Unfinished | Unfinished port of FNAF Allstars. | Unfinished Port |
 | [Freespace 1 & 2](https://github.com/Rinnegatamante/freespace-vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Freespace 1 & 2 for PSVITA. | Port |
-| [Freeways](https://github.com/Rinnegatamante/freeways-vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Freeways for PSVITA. | Port |
-| [Funky Smugglers](https://github.com/Rinnegatamante/funky_vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Funky Smugglers for PSVITA. | Port |
-| [The FIFA Collection](https://www.mediafire.com/file/y8diktrhu0l6i7s/All_FIFA.txt/file) | Matt19220 | :x: | Unlicensed | Inactive | Collection of FIFA for PSVITA. | Collection Port |
+| [Freeways](https://github.com/Rinnegatamante/freeways-vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Freeways for PSVITA. | Port |
+| [Funky Smugglers](https://github.com/Rinnegatamante/funky_vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Funky Smugglers for PSVITA. | Port |
+| [The FIFA Collection](https://www.mediafire.com/file/y8diktrhu0l6i7s/All_FIFA.txt/file) | SSMG4 | :heavy_check_mark: | CC0-1.0 | Inactive | Collection of FIFA for PSVITA. | Collection Port |
 
 ### -G-
 
