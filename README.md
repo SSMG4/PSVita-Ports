@@ -201,8 +201,9 @@ Now, onto the board:
 
 | Port | Author | OSS | License | Status | Description | Tag |
 |------|--------|-----|---------|--------|-------------|-----|
-| [Galcon 2 and BREAKFINITY](https://github.com/Rinnegatamante/hassey-collection) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Galcon 2 and BREAKFINITY for PSVITA. | Port |
+| [Galcon 2 and BREAKFINITY](https://github.com/Rinnegatamante/hassey-collection) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Galcon 2 and BREAKFINITY for PSVITA. | Port |
 | [Gnomopolis](https://www.rinnegatamante.eu/vitadb/#/info/1124) | Sergorov | :x: | Unlicensed | Inactive | Port of Gnomopolis for PSVITA. | Port |
+| [Geometry Dash](https://www.rinnegatamante.eu/vitadb/#/info/1177) | Hatoving | :heavy_check_mark: | MIT | Inactive | Port of Geometry Dash for PSVITA. | Port |
 | Golfing Over It: [Free Unfinished Ver](https://www.mediafire.com/file/gr7siyqv82pmr8i/GolfingOverIt1.vpk/file) or [Full Paid Ver](https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA) | PatnosD | :heavy_check_mark: | Unlicensed | Unfinished/Paid | Golfing Over It port for PSVITA. | Unfinished Port / Paid Port |
 | [The GTA Collection](https://www.mediafire.com/file/ykd05o6idvnni2p/gta_data.txt/file) | Matt19220 | :x: | Unlicensed | Inactive | Collection of GTA for PSVITA. | Collection Port |
 
