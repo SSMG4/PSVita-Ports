@@ -2,7 +2,7 @@
 
 EDIT2: In the end I've decided to keep this a README but upgrade the format to a board ("complete enough" version to me, all though there might need some tweaking because ive finished it pretty fast)
 
-Current Update: 2026.01.10
+Current Update: 2026.03.08
 
 This Repository aims to put every PSVita game port (Including Abandonned Ports, "Lost Ports" and other Ports you've probably never heard of) into an awesome list for you to enjoy!
 
@@ -195,7 +195,7 @@ Now, onto the board:
 | [Freespace 1 & 2](https://github.com/Rinnegatamante/freespace-vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Freespace 1 & 2 for PSVITA. | Port |
 | [Freeways](https://github.com/Rinnegatamante/freeways-vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Freeways for PSVITA. | Port |
 | [Funky Smugglers](https://github.com/Rinnegatamante/funky_vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Funky Smugglers for PSVITA. | Port |
-| [The FIFA Collection](https://www.mediafire.com/file/y8diktrhu0l6i7s/All_FIFA.txt/file) | SSMG4 | :heavy_check_mark: | CC0-1.0 | Inactive | Collection of FIFA for PSVITA. | Collection Port |
+| [The FIFA Collection](https://www.mediafire.com/file/y8diktrhu0l6i7s/All_FIFA.txt/file) | SSMG4 | :heavy_check_mark: | CC0-1.0 | Inactive | Collection of FIFA for PSVITA. | Collection |
 
 ### -G-
 
@@ -204,8 +204,8 @@ Now, onto the board:
 | [Galcon 2 and BREAKFINITY](https://github.com/Rinnegatamante/hassey-collection) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Galcon 2 and BREAKFINITY for PSVITA. | Port |
 | [Gnomopolis](https://www.rinnegatamante.eu/vitadb/#/info/1124) | Sergorov | :x: | Unlicensed | Inactive | Port of Gnomopolis for PSVITA. | Port |
 | [Geometry Dash](https://www.rinnegatamante.eu/vitadb/#/info/1177) | Hatoving | :heavy_check_mark: | MIT | Inactive | Port of Geometry Dash for PSVITA. | Port |
-| Golfing Over It: [Free Unfinished Ver](https://www.mediafire.com/file/gr7siyqv82pmr8i/GolfingOverIt1.vpk/file) or [Full Paid Ver](https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA) | PatnosD | :heavy_check_mark: | Unlicensed | Unfinished/Paid | Golfing Over It port for PSVITA. | Unfinished Port / Paid Port |
-| [The GTA Collection](https://www.mediafire.com/file/ykd05o6idvnni2p/gta_data.txt/file) | Matt19220 | :x: | Unlicensed | Inactive | Collection of GTA for PSVITA. | Collection Port |
+| Golfing Over It: [Free Unfinished Ver](https://www.mediafire.com/file/gr7siyqv82pmr8i/GolfingOverIt1.vpk/file) or [Full Paid Ver](https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA) | PatnosD | :x: | Unlicensed | Unfinished/Paid | Golfing Over It port for PSVITA. | Unfinished Port / Paid Port |
+| [The GTA Collection](https://www.mediafire.com/file/ykd05o6idvnni2p/gta_data.txt/file) | SSMG4 | :x: | Unlicensed | Inactive | Collection of GTA for PSVITA. | Collection |
 
 ### -H-
 
