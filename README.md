@@ -2,7 +2,7 @@
 
 EDIT2: In the end I've decided to keep this a README but upgrade the format to a board ("complete enough" version to me, all though there might need some tweaking because ive finished it pretty fast)
 
-Current Update: 2026.03.08
+Current Update: 2026.03.27
 
 This Repository aims to put every PSVita game port (Including Abandonned Ports, "Lost Ports" and other Ports you've probably never heard of) into an awesome list for you to enjoy!
 
@@ -195,7 +195,7 @@ Now, onto the board:
 | [Freespace 1 & 2](https://github.com/Rinnegatamante/freespace-vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Freespace 1 & 2 for PSVITA. | Port |
 | [Freeways](https://github.com/Rinnegatamante/freeways-vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Freeways for PSVITA. | Port |
 | [Funky Smugglers](https://github.com/Rinnegatamante/funky_vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Funky Smugglers for PSVITA. | Port |
-| [The FIFA Collection](https://www.mediafire.com/file/y8diktrhu0l6i7s/All_FIFA.txt/file) | SSMG4 | :heavy_check_mark: | CC0-1.0 | Inactive | Collection of FIFA for PSVITA. | Collection |
+| [The FIFA Collection](https://www.mediafire.com/file/y8diktrhu0l6i7s/All_FIFA.txt/file) | SSMG4 | :heavy_check_mark: | CC0-1.0 | Inactive | FIFA Collection for PSVITA. | Collection |
 
 ### -G-
 
@@ -211,10 +211,10 @@ Now, onto the board:
 
 | Port | Author | OSS | License | Status | Description | Tag |
 |------|--------|-----|---------|--------|-------------|-----|
-| [Halo 2D](https://www.rinnegatamante.eu/vitadb/#/info/1095) | VegettoSan | :x: | Unlicensed | Inactive | Port of Halo 2D for PSVITA. | Port |
+| [Halo 2D](https://www.rinnegatamante.eu/vitadb/#/info/1095) | VegettoSan | :heavy_check_mark: | Unlicensed | Inactive | Port of Halo 2D for PSVITA. | Port |
 | [Hellrider (Unsure if Finished)](https://www.mediafire.com/file/g2y8tfj5vthmu95/Hellrider.vpk/file) | PatnosD | :x: | Unlicensed | Unfinished | Unsure if finished port of Hellrider. | Unfinished Port |
 | [HELP NO BRAKE](https://www.mediafire.com/file/70fwiwbfbpu3vv6/HELP_NO_BRAKE.vpk/file) | PatnosD | :x: | Unlicensed | Inactive | Port of HELP NO BRAKE for PSVITA. | Port |
-| [HoMM II/fheroes2](https://www.rinnegatamante.eu/vitadb/#/info/354) | Northfear | :x: | Unlicensed | Inactive | Port of HoMM II/fheroes2 for PSVITA. | Port |
+| [HoMM II/fheroes2](https://www.rinnegatamante.eu/vitadb/#/info/354) | Northfear | :heavy_check_mark: | Unlicensed | Inactive | Port of HoMM II/fheroes2 for PSVITA. | Port |
 | [Hollow Knight](https://www.mediafire.com/file/5u58cf46xuo2rif/hk-build-out.zip/file) | PatnosD | :x: | Unlicensed | Inactive | Port of Hollow Knight for PSVITA. | Port |
 | [How To Rob A Gas Station](https://www.rinnegatamante.eu/vitadb/#/info/839) | POtO Software | :x: | Unlicensed | Inactive | Port of How To Rob A Gas Station for PSVITA. | Port |
 | [Half-Life 2 Deathmatch ("Lost" & Unfinished)](https://www.mediafire.com/file/2g0pir6piuxp8k0/hl2_dm.vpk/file) | PatnosD | :x: | Unlicensed | Unfinished | Unfinished port of HL2 Deathmatch. | Unfinished Port |
