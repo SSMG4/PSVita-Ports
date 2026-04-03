@@ -253,6 +253,7 @@ Now, onto the board:
 |------|--------|-----|---------|--------|-------------|-----|
 | [La Deuda](https://www.rinnegatamante.eu/vitadb/#/info/1252) | SoyKhaler | :x: | Unlicensed | Inactive | Port of La Deuda for PSVITA. | Port |
 | [Lego Star Wars TCS](https://www.rinnegatamante.eu/vitadb/#/info/1233) | gm666q | :x: | Unlicensed | Inactive | Port of Lego Star Wars TCS for PSVITA. | Port |
+| [Lego Island](https://github.com/isledecomp/isle-portable) | olebeck | :heavy_check_mark: | GPL-3.0 | Active | Port of Lego Island to PSVita | Port |
 | [Let's Golf 2](https://www.rinnegatamante.eu/vitadb/#/info/1257) | Rinnegatamante | :x: | Unlicensed | Inactive | Port of Let's Golf 2 for PSVITA. | Port |
 | [Long Spear (Unsure if Finished)](https://www.mediafire.com/file/73zh05omz24g24v/LongSpear.vpk/file) | PatnosD | :x: | Unlicensed | Unfinished | Unsure if finished port of Long Spear. | Unfinished Port |
 
@@ -265,11 +266,11 @@ Now, onto the board:
 | [Midnight Shift Remake](https://www.mediafire.com/file/yu2ujzrrk22z8rx/msr-build.vpk/file) | DanCooper | :x: | Unlicensed | Inactive | Port of Midnight Shift Remake for PSVITA. | Port |
 | [Mighty Mike](https://www.rinnegatamante.eu/vitadb/#/info/1254) | Rinnegatamante | :x: | Unlicensed | Inactive | Port of Mighty Mike for PSVITA. | Port |
 | [Minecraft 1.3](https://www.mediafire.com/file/7bproxsxcc3lk11/MC_1.3_PS_Vita.zip/file) | PlayZ | :x: | Unlicensed | Inactive | Port of Minecraft 1.3 for PSVITA. | Port |
+| [Minecraft PE 0.6.1](https://github.com/minecraftpe-vita/minecraftpe-vita) | minecraftpe-vita devs | :heavy_check_mark: | Unlicensed | Inactive | Port of Minecraft PE 0.6.1 for Vita & Symbian | Port | 
 | [Modern Combat 3](https://github.com/v-atamanenko/mc3-vita) | v-atamanenko | :heavy_check_mark: | Unlicensed | Inactive | Port of Modern Combat 3 for PSVITA. | Port |
 | [Modern Combat 3](https://www.rinnegatamante.eu/vitadb/#/info/1186) | gl33ntwine | :x: | Unlicensed | Inactive | Port of Modern Combat 3 for PSVITA. | Port |
 | [Murder In Venise (Unsure if Finished)](https://www.mediafire.com/file/92yblt07dwr4vtr/bksiyb.vpk/file) | BurAndBy | :x: | Unlicensed | Unfinished | Unsure if finished port of Murder In Venise. | Unfinished Port |
 | [Mario Maker](https://www.mediafire.com/file/o975ibupy2yq4sf/MAKERTROD.vpk/file) | Unknown | :x: | Unlicensed | Inactive | Port of Mario Maker for PSVITA. | Port |
-
 ### -N-
 
 | Port | Author | OSS | License | Status | Description | Tag |
