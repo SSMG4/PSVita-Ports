@@ -2,7 +2,7 @@
 
 EDIT2: In the end I've decided to keep this a README but upgrade the format to a board ("complete enough" version to me, all though there might need some tweaking because ive finished it pretty fast)
 
-Current Update: 2026.03.27
+Current Update: 2026.04.04
 
 This Repository aims to put every PSVita game port (Including Abandonned Ports, "Lost Ports" and other Ports you've probably never heard of) into an awesome list for you to enjoy!
 
@@ -154,7 +154,7 @@ Now, onto the board:
 | [Cradle Song](https://www.rinnegatamante.eu/vitadb/#/info/1219) | grimiku | :x: | Unlicensed | Inactive | Port of Cradle Song for PSVITA. | Port |
 | [Crossy Road Clone](https://www.rinnegatamante.eu/vitadb/#/info/1221) | MRKane | :x: | Unlicensed | Inactive | Port of Crossy Road Clone for PSVITA. | Port |
 | [CSPSV](https://www.rinnegatamante.eu/vitadb/#/info/1243) | Cello0314 | :heavy_check_mark: | Unlicensed | Inactive | Port of CSPSV for PSVITA. | Port |
-| [Cuphead (Paid)](https://github.com/PatnosDD/Cuphead-PS-VITA) | PatnosD | :heavy_check_mark: | Unlicensed | Paid | Paid port of Cuphead for PSVITA. | Paid Port |
+| [Cuphead (Paid)](https://github.com/PatnosDD/Cuphead-PS-VITA) | PatnosD | :x: | Unlicensed | Paid | Paid port of Cuphead for PSVITA. | Paid Port |
 | [Cylinder](https://www.mediafire.com/file/sw9stibrs5yql6f/cylinder.vpk/file) | DanCooper | :x: | Unlicensed | Inactive | Port of Cylinder for PSVITA. | Port |
 
 ### -D-
@@ -195,7 +195,7 @@ Now, onto the board:
 | [Freespace 1 & 2](https://github.com/Rinnegatamante/freespace-vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Freespace 1 & 2 for PSVITA. | Port |
 | [Freeways](https://github.com/Rinnegatamante/freeways-vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Freeways for PSVITA. | Port |
 | [Funky Smugglers](https://github.com/Rinnegatamante/funky_vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Funky Smugglers for PSVITA. | Port |
-| [The FIFA Collection](https://www.mediafire.com/file/y8diktrhu0l6i7s/All_FIFA.txt/file) | SSMG4 | :heavy_check_mark: | CC0-1.0 | Inactive | FIFA Collection for PSVITA. | Collection |
+| [The FIFA Collection](https://github.com/SSMG4/FIFA4Vita) | SSMG4 | :heavy_check_mark: | CC0-1.0 | Inactive | FIFA Collection for PSVITA. | Collection |
 
 ### -G-
 
@@ -205,7 +205,7 @@ Now, onto the board:
 | [Gnomopolis](https://www.rinnegatamante.eu/vitadb/#/info/1124) | Sergorov | :x: | Unlicensed | Inactive | Port of Gnomopolis for PSVITA. | Port |
 | [Geometry Dash](https://www.rinnegatamante.eu/vitadb/#/info/1177) | Hatoving | :heavy_check_mark: | MIT | Inactive | Port of Geometry Dash for PSVITA. | Port |
 | Golfing Over It: [Free Unfinished Ver](https://www.mediafire.com/file/gr7siyqv82pmr8i/GolfingOverIt1.vpk/file) or [Full Paid Ver](https://github.com/PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA) | PatnosD | :x: | Unlicensed | Unfinished/Paid | Golfing Over It port for PSVITA. | Unfinished Port / Paid Port |
-| [The GTA Collection](https://www.mediafire.com/file/ykd05o6idvnni2p/gta_data.txt/file) | SSMG4 | :x: | Unlicensed | Inactive | Collection of GTA for PSVITA. | Collection |
+| [The GTA Collection](https://github.com/SSMG4/GTA4Vita) | SSMG4 | :heavy_check_mark: | CC0-1.0 | Inactive | Collection of GTA for PSVITA. | Collection |
 
 ### -H-
 
@@ -230,9 +230,9 @@ Now, onto the board:
 
 | Port | Author | OSS | License | Status | Description | Tag |
 |------|--------|-----|---------|--------|-------------|-----|
-| [Jazzpunk (Unreleased)](https://github.com/malone46/JazzpunkVita) | Malone46 | :heavy_check_mark: | Unlicensed | Unreleased | Jazzpunk for PSVITA. | Unreleased Port |
-| [Jet Car Stunts 2](https://github.com/Rinnegatamante/jetcarstunts_vita) | Rinnegatamante | :heavy_check_mark: | Unlicensed | Inactive | Port of Jet Car Stunts 2 for PSVITA. | Port |
-| [Jump King](https://www.rinnegatamante.eu/vitadb/#/info/1256) | Kalekki | :x: | Unlicensed | Inactive | Port of Jump King for PSVITA. | Port |
+| [Jazzpunk (Unreleased)](https://github.com/malone46/JazzpunkVita) | Malone46 | :x: | Unlicensed | Unreleased | Jazzpunk for PSVITA. | Unreleased Port |
+| [Jet Car Stunts 2](https://github.com/Rinnegatamante/jetcarstunts_vita) | Rinnegatamante | :heavy_check_mark: | MIT | Inactive | Port of Jet Car Stunts 2 for PSVITA. | Port |
+| [Jump King](https://www.rinnegatamante.eu/vitadb/#/info/1256) | Kalekki | :heavy_check_mark: | Unlicensed | Inactive | Port of Jump King for PSVITA. | Port |
 | [Juniper's Knot](https://www.rinnegatamante.eu/vitadb/#/info/1218) | grimiku | :x: | Unlicensed | Inactive | Port of Juniper's Knot for PSVITA. | Port |
 
 ### -K-
@@ -241,7 +241,7 @@ Now, onto the board:
 |------|--------|-----|---------|--------|-------------|-----|
 | [Katawa Crash](https://www.rinnegatamante.eu/vitadb/#/info/1087) | avonder | :x: | Unlicensed | Inactive | Port of Katawa Crash for PSVITA. | Port |
 | [Katawa Shoujo](https://www.rinnegatamante.eu/vitadb/#/info/1086) | avonder | :x: | Unlicensed | Inactive | Port of Katawa Shoujo for PSVITA. | Port |
-| [Keep In Mind Remastered (Paid)](https://github.com/PatnosDD/Keep-In-Mind-Remastered-PS-VITA) | PatnosD | :heavy_check_mark: | Unlicensed | Paid | Paid port of Keep In Mind Remastered for PSVITA. | Paid Port |
+| [Keep In Mind Remastered (Paid)](https://github.com/PatnosDD/Keep-In-Mind-Remastered-PS-VITA) | PatnosD | :x: | Unlicensed | Paid | Paid port of Keep In Mind Remastered for PSVITA. | Paid Port |
 | [Kindergarden](https://www.mediafire.com/file/2f74b88j5manue8/KindergartenNEW.vpk/file) | PatnosD | :x: | Unlicensed | Inactive | Port of Kindergarden for PSVITA. | Port |
 | [Kindergarden 2](https://www.mediafire.com/file/2ux2dfy7v9l0g10/Kindergarten2.vpk/file) | PatnosD | :x: | Unlicensed | Inactive | Port of Kindergarden 2 for PSVITA. | Port |
 | [Kingdom New Land (Unsure if Finished)](https://www.mediafire.com/file/kt8aadaxm60te04/KingdomNewLands.vpk/file) | PatnosD | :x: | Unlicensed | Unfinished | Unsure if finished port of Kingdom New Land. | Unfinished Port |
@@ -252,9 +252,9 @@ Now, onto the board:
 | Port | Author | OSS | License | Status | Description | Tag |
 |------|--------|-----|---------|--------|-------------|-----|
 | [La Deuda](https://www.rinnegatamante.eu/vitadb/#/info/1252) | SoyKhaler | :x: | Unlicensed | Inactive | Port of La Deuda for PSVITA. | Port |
-| [Lego Star Wars TCS](https://www.rinnegatamante.eu/vitadb/#/info/1233) | gm666q | :x: | Unlicensed | Inactive | Port of Lego Star Wars TCS for PSVITA. | Port |
+| [Lego Star Wars TCS](https://www.rinnegatamante.eu/vitadb/#/info/1233) | gm666q | :heavy_check_mark: | MIT | Inactive | Port of Lego Star Wars TCS for PSVITA. | Port |
 | [Lego Island](https://github.com/isledecomp/isle-portable) | olebeck | :heavy_check_mark: | GPL-3.0 | Active | Port of Lego Island to PSVita | Port |
-| [Let's Golf 2](https://www.rinnegatamante.eu/vitadb/#/info/1257) | Rinnegatamante | :x: | Unlicensed | Inactive | Port of Let's Golf 2 for PSVITA. | Port |
+| [Let's Golf 2 (Deleted)](https://www.rinnegatamante.eu/vitadb/#/info/1257) | Rinnegatamante | :grey_question: | Unlicensed | Inactive | Port of Let's Golf 2 for PSVITA. | Port |
 | [Long Spear (Unsure if Finished)](https://www.mediafire.com/file/73zh05omz24g24v/LongSpear.vpk/file) | PatnosD | :x: | Unlicensed | Unfinished | Unsure if finished port of Long Spear. | Unfinished Port |
 
 ### -M-
